@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:41:51 +0100
+Source: nemo-fileroller
+Binary: nemo-fileroller
+Architecture: source amd64
+Version: 2.0.0-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-fileroller - File Roller integration for Nemo
+Changes: 
+ nemo-fileroller (2.0.0-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ 9f13aa5f2c363c0e89e5fd553cbf4f82d2d51357 741 nemo-fileroller_2.0.0-sid.dsc
+ ab326e4e3dc89e3d700eab9ac2d81a8c32d196f1 60079 nemo-fileroller_2.0.0-sid.tar.gz
+ 9e102503cf162c30bc6ecb7e376ba67fa46a5a6f 6192 nemo-fileroller_2.0.0-sid_amd64.deb
+Checksums-Sha256: 
+ 4486e3ab79cfe3e761d22e1ccbc8ed8709ea99790a318e40cc62a6febb319cb2 741 nemo-fileroller_2.0.0-sid.dsc
+ a0af3ef4d8d80c5a2ab47e4ac6ab42352389b6dd76034482ac453f3b0dea9ebd 60079 nemo-fileroller_2.0.0-sid.tar.gz
+ f04f3fddf6bde25e7f9dd9b58fdfa3b3b54540706822de7c1ed3af077641968c 6192 nemo-fileroller_2.0.0-sid_amd64.deb
+Files: 
+ d23f464eb5354b9c39535482b6886c31 741 non-free/gnome optional nemo-fileroller_2.0.0-sid.dsc
+ e4987d81c354080bef7fb03df03ede0f 60079 non-free/gnome optional nemo-fileroller_2.0.0-sid.tar.gz
+ 39afa5368bb7412c723e60a3eaa7f567 6192 non-free/gnome optional nemo-fileroller_2.0.0-sid_amd64.deb

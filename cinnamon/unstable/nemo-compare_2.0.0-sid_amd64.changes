@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:40:02 +0100
+Source: nemo-compare
+Binary: nemo-compare
+Architecture: source all
+Version: 2.0.0-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-compare - Context menu comparison extension for Nemo file manager
+Changes: 
+ nemo-compare (2.0.0-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ 484ebadae225df9784eb3ab3ea6368fea73664bc 744 nemo-compare_2.0.0-sid.dsc
+ 640b9d8c8d21a2cfa282c709d0147c5db5c941a4 7805 nemo-compare_2.0.0-sid.tar.gz
+ 013f5d48d136511927794c582ce5ba2f2cec46fc 7996 nemo-compare_2.0.0-sid_all.deb
+Checksums-Sha256: 
+ 0d35335f7ad6ed080aecfe92d8848aedd44913ac2ae40b015592ba851a8c225e 744 nemo-compare_2.0.0-sid.dsc
+ f2eea36044c1597dec8313d54a5d4a2838a11253296f44097003fd42e2df9ff6 7805 nemo-compare_2.0.0-sid.tar.gz
+ 1567b0601aca2fee537d60fe42a1757575b7d8c1c14b09620fa692c2c209a985 7996 nemo-compare_2.0.0-sid_all.deb
+Files: 
+ 30b3759c21832f1e3faa5259b29ec10c 744 gnome extra nemo-compare_2.0.0-sid.dsc
+ 59260641e2c5e8405769464bec8fe4c6 7805 gnome extra nemo-compare_2.0.0-sid.tar.gz
+ 7d7f8559bd261e8457554238f4790f3c 7996 gnome extra nemo-compare_2.0.0-sid_all.deb

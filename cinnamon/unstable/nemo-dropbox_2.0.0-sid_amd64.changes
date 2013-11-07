@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:40:30 +0100
+Source: nemo-dropbox
+Binary: nemo-dropbox
+Architecture: source amd64
+Version: 2.0.0-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-dropbox - Dropbox integration for Nemo
+Changes: 
+ nemo-dropbox (2.0.0-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ 209e603d41a0061419edb4bf56f51f43e8e650ed 775 nemo-dropbox_2.0.0-sid.dsc
+ 8f8296d71d465303e807773ea0cf19a5bba805bb 531483 nemo-dropbox_2.0.0-sid.tar.gz
+ 024be8e61f15426a36ddfd5cbf61aa9cec157a9d 91592 nemo-dropbox_2.0.0-sid_amd64.deb
+Checksums-Sha256: 
+ 143d44e64ead369d133f9d3c37b8e134e74551887dc85cf13168d82dbc7d215c 775 nemo-dropbox_2.0.0-sid.dsc
+ 72b1a83cecd31a08eecad2aebff08f5d64714d0e663a2855187ab3caefe42a96 531483 nemo-dropbox_2.0.0-sid.tar.gz
+ d88d6f8332be15b0037db34cac6096b0823b645b8bfcc11e3a4baa1b0bc2b84e 91592 nemo-dropbox_2.0.0-sid_amd64.deb
+Files: 
+ 9ddb8ade98bfc237a03cbb83482e7c41 775 non-free/gnome optional nemo-dropbox_2.0.0-sid.dsc
+ 6ec7462b486cc62a97ad53cccb019de2 531483 non-free/gnome optional nemo-dropbox_2.0.0-sid.tar.gz
+ 6be44019eafbd32b8c63da1eb01f7c08 91592 non-free/gnome optional nemo-dropbox_2.0.0-sid_amd64.deb
