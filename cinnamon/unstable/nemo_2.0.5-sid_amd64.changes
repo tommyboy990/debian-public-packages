@@ -1,0 +1,48 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:20:01 +0100
+Source: nemo
+Binary: nemo nemo-dbg libnemo-extension1 libnemo-extension-dev gir1.2-nemo-3.0 nemo-data
+Architecture: source amd64 all
+Version: 2.0.5-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ gir1.2-nemo-3.0 - libraries for nemo components - gir bindings
+ libnemo-extension-dev - libraries for nemo components - development version
+ libnemo-extension1 - libraries for nemo components - runtime version
+ nemo       - file manager and graphical shell for Cinnamon
+ nemo-data  - data files for nemo
+ nemo-dbg   - file manager and graphical shell for Cinnamon - debugging version
+Changes: 
+ nemo (2.0.5-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ 1ee4ab4b028dedc86f7e8dc02bb969893e2227b4 1355 nemo_2.0.5-sid.dsc
+ adf66df55eb079f9b851c5ad8e8b652553a4ed4c 12616376 nemo_2.0.5-sid.tar.gz
+ f95895a63550237560c5dc4eb45c4e13a7799fba 865792 nemo_2.0.5-sid_amd64.deb
+ 65e5e027bcbb3ebee810b21be9fe3088301bbde8 2238428 nemo-dbg_2.0.5-sid_amd64.deb
+ d661f8df0b02aa2911bfda1765919020249eb575 215972 libnemo-extension1_2.0.5-sid_amd64.deb
+ 546c8495c602dc8382888b5bec66e1219b8852ab 231508 libnemo-extension-dev_2.0.5-sid_amd64.deb
+ 3e867e389c0c1f92545e4bb530daaf379312d87b 208794 gir1.2-nemo-3.0_2.0.5-sid_amd64.deb
+ 1ce098c057a713e8633e519ba40509714c59b9d1 231016 nemo-data_2.0.5-sid_all.deb
+Checksums-Sha256: 
+ 62103bfff885ab5c8557caa645ebf05e46f24c47865ec219a6d71814b9554064 1355 nemo_2.0.5-sid.dsc
+ 64ba85aa7db436d2cf638df0d618f9b3cbf0d26b0ecd14d325375ebd6229a836 12616376 nemo_2.0.5-sid.tar.gz
+ b99b8eec4770608a2362e7a849050dfba48dfd4d447bda2ebf798f093fdb4a89 865792 nemo_2.0.5-sid_amd64.deb
+ 0145423f69ac82fd10cd5702ec5b2ea28abf53526a4aebb0a95c5dfbbbcfb40a 2238428 nemo-dbg_2.0.5-sid_amd64.deb
+ f056e58d53512a23302bbee8f1f932a5415b2c0d23dc714f8b31202ceee257ec 215972 libnemo-extension1_2.0.5-sid_amd64.deb
+ 219db8fd65c9a6ffb6fc3c712c25f214b24701afd0bcdb2bd631e81c5b18a8ba 231508 libnemo-extension-dev_2.0.5-sid_amd64.deb
+ 924ff61a075776a860c638ab791fb335cd9587fe78875dda50c39a3bc77d4b7e 208794 gir1.2-nemo-3.0_2.0.5-sid_amd64.deb
+ 6c5ec28183d48b01e9821f3fe51aec9ccd35138091ac6a8cf668b8e32604824f 231016 nemo-data_2.0.5-sid_all.deb
+Files: 
+ 22f54e9c640a3fcd88262e0b3d1becdd 1355 gnome optional nemo_2.0.5-sid.dsc
+ 6f2103fcde5225fe994e3204ff362fef 12616376 gnome optional nemo_2.0.5-sid.tar.gz
+ 1ab96393252cac5a3f57a42f97aa12e1 865792 gnome optional nemo_2.0.5-sid_amd64.deb
+ 5bff391bd3ff960a53cbd8d88b70a528 2238428 debug extra nemo-dbg_2.0.5-sid_amd64.deb
+ 8ff3b0e7f4de2ec2de7096319156d3db 215972 libs optional libnemo-extension1_2.0.5-sid_amd64.deb
+ 83369775962d5c8374ca3d22f15c2a8f 231508 libdevel optional libnemo-extension-dev_2.0.5-sid_amd64.deb
+ 0da8936f8098edeede32cd574aaf9e06 208794 libdevel optional gir1.2-nemo-3.0_2.0.5-sid_amd64.deb
+ 4226af324130ccb9f52ac7793db17941 231016 gnome optional nemo-data_2.0.5-sid_all.deb
