@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:56:05 +0100
+Source: cinnamon-control-center
+Binary: cinnamon-control-center cinnamon-control-center-data libcinnamon-control-center-dev libcinnamon-control-center1
+Architecture: source all amd64
+Version: 2.0.7-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-control-center - utilities to configure the Cinnamon desktop
+ cinnamon-control-center-data - configuration applets for Cinnamon - data files
+ libcinnamon-control-center-dev - utilities to configure the Cinnamon desktop
+ libcinnamon-control-center1 - utilities to configure the Cinnamon desktop
+Changes: 
+ cinnamon-control-center (2.0.7-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ 39a76683bdf1f30428f61b24ab7f6554c5b41cb8 1893 cinnamon-control-center_2.0.7-kali.dsc
+ 7c3d20845c167fda216d8ecb04f042b21ac5db4b 13418500 cinnamon-control-center_2.0.7-kali.tar.gz
+ ed95b15b8e3584d7df69cbbca75a73ca11c77f63 1611236 cinnamon-control-center-data_2.0.7-kali_all.deb
+ e6c546c8566e4db71cd63fb48fc90f8de659c9fd 1624652 cinnamon-control-center_2.0.7-kali_amd64.deb
+ 5485a29d1b52c78eb3cd9f68f804feedc05f33db 1411208 libcinnamon-control-center-dev_2.0.7-kali_amd64.deb
+ 773bf7e4fc2b1d1fdc6f8722205d2e7a70837429 1417262 libcinnamon-control-center1_2.0.7-kali_amd64.deb
+Checksums-Sha256: 
+ 4213f13875305af3c3c8043116485c4ec76676d06d5c01820eed52a38f332d26 1893 cinnamon-control-center_2.0.7-kali.dsc
+ 8a8310e47e844732d9cf21a74d0ba35056d12cae30979013d540134c2a808ca9 13418500 cinnamon-control-center_2.0.7-kali.tar.gz
+ 9c0ee6b22665259851695755736064125d3a99baa4de36ce200c50509cf68772 1611236 cinnamon-control-center-data_2.0.7-kali_all.deb
+ e25e6f9b9dd4cf081f6b28d7a640953669e762ff6d909227d9813a3fefcf66f2 1624652 cinnamon-control-center_2.0.7-kali_amd64.deb
+ 17aa581d07d052fc53879be96ade73c77d048d08d9dc32df550fcede6d88142e 1411208 libcinnamon-control-center-dev_2.0.7-kali_amd64.deb
+ 552299088ccc4f8d97606b17982c5f23b0bf7111740479769d61103ad5a45baf 1417262 libcinnamon-control-center1_2.0.7-kali_amd64.deb
+Files: 
+ e3ed410872868c6d0f98d185b9a67aba 1893 gnome optional cinnamon-control-center_2.0.7-kali.dsc
+ 18955eb328534db8fb77a50d089344b7 13418500 gnome optional cinnamon-control-center_2.0.7-kali.tar.gz
+ 4efe5d4df23140b7bf0fcd18042b6794 1611236 gnome optional cinnamon-control-center-data_2.0.7-kali_all.deb
+ 1cd9649acc07c1b0057c82fd1a3b2801 1624652 gnome optional cinnamon-control-center_2.0.7-kali_amd64.deb
+ f865c594ea73fe30a6e04cc447c3a6ab 1411208 libdevel optional libcinnamon-control-center-dev_2.0.7-kali_amd64.deb
+ dbc8f500abada140d432ce7578129726 1417262 libs optional libcinnamon-control-center1_2.0.7-kali_amd64.deb

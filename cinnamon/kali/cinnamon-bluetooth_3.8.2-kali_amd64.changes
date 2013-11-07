@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 23:02:15 +0100
+Source: cinnamon-bluetooth
+Binary: cinnamon-bluetooth
+Architecture: source amd64
+Version: 3.8.2-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-bluetooth - Gnome Bluetooth support for the Cinnamon desktop
+Changes: 
+ cinnamon-bluetooth (3.8.2-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ 98c8758be9dede6fe8b645af168f9ecc523e9b93 1460 cinnamon-bluetooth_3.8.2-kali.dsc
+ aaf7c865af598c70522ef0afb14405253affc0ca 3353514 cinnamon-bluetooth_3.8.2-kali.tar.gz
+ c731591ea67a735357c0c4851056d2ac0d87a6ae 1428778 cinnamon-bluetooth_3.8.2-kali_amd64.deb
+Checksums-Sha256: 
+ 84141e54921e0aafcef77d9d5091fea92fd302fa8d0ada5d653fd46a698829a3 1460 cinnamon-bluetooth_3.8.2-kali.dsc
+ c07b550d57ef06ff5e2f3733af6851e21c4180f7659ad610f349685be189cc42 3353514 cinnamon-bluetooth_3.8.2-kali.tar.gz
+ ab0f624c9c823cfb811451538d59532b5f792551f8236a4c7226045eb440fbe0 1428778 cinnamon-bluetooth_3.8.2-kali_amd64.deb
+Files: 
+ 92874b496e69c70cc090f3c431b4dd96 1460 gnome optional cinnamon-bluetooth_3.8.2-kali.dsc
+ 3ba10ae9916003644a8ddf341fe00683 3353514 gnome optional cinnamon-bluetooth_3.8.2-kali.tar.gz
+ 2aefbca769213fb6c215ca66ad5409b2 1428778 gnome optional cinnamon-bluetooth_3.8.2-kali_amd64.deb
