@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:16:17 +0100
+Source: cinnamon-translations
+Binary: cinnamon-translations
+Architecture: source all
+Version: 2.0.2-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-translations - Translation files for the Cinnamon desktop
+Changes: 
+ cinnamon-translations (2.0.2-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ ee0bad50a8c245c6de47521aa583c8ec92adc682 622 cinnamon-translations_2.0.2-sid.dsc
+ 9704ee5e4885062fdf5859277f82a4bc8d9dccb6 29329379 cinnamon-translations_2.0.2-sid.tar.gz
+ 5a435b119b353c251bd30f5b616d8c953cfbb89b 1411682 cinnamon-translations_2.0.2-sid_all.deb
+Checksums-Sha256: 
+ c0a89310c98ad70263afae563db74821ff65c49fba48ccfe8cc4ad71bb857c6e 622 cinnamon-translations_2.0.2-sid.dsc
+ bcbe3a276daf9e645d4bea3449fe91424b9f8a2a7ed4e4b079cdaac60707f3cd 29329379 cinnamon-translations_2.0.2-sid.tar.gz
+ b218dbdc1031602d7af0010209398728be650589a8d2fdc52ee9a42428bbcaa6 1411682 cinnamon-translations_2.0.2-sid_all.deb
+Files: 
+ 24eaf8a4511779d5199b5c32caaf1509 622 admin optional cinnamon-translations_2.0.2-sid.dsc
+ d89121ff964ade0d876435e5a5466127 29329379 admin optional cinnamon-translations_2.0.2-sid.tar.gz
+ 4c42004b12d3de997e0e40336baac155 1411682 admin optional cinnamon-translations_2.0.2-sid_all.deb

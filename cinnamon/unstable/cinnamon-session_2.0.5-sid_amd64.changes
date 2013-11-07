@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:25:15 +0100
+Source: cinnamon-session
+Binary: cinnamon-session cinnamon-session-common
+Architecture: source all amd64
+Version: 2.0.5-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-session - Cinnamon Session Manager - Minimal runtime
+ cinnamon-session-common - Cinnamon Session Manager - common files
+Changes: 
+ cinnamon-session (2.0.5-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ 6832440aed9f8ee43fa5f369c76bb7e6542f633a 1041 cinnamon-session_2.0.5-sid.dsc
+ 0eb2fa39e3f7048d203fefd6cb8649ee4cebfee1 3202684 cinnamon-session_2.0.5-sid.tar.gz
+ cfa3c9d013e85a21a033781ab9155e1e0a623e35 141038 cinnamon-session-common_2.0.5-sid_all.deb
+ f8e71088a81355bce9d2f71d49452487811714fe 102196 cinnamon-session_2.0.5-sid_amd64.deb
+Checksums-Sha256: 
+ a49e945ac95c377c40ce8c9461df64d6be3c018507ece40ed6aec1015b5612bc 1041 cinnamon-session_2.0.5-sid.dsc
+ ef96ef07803eb8fb00976a6cf703ea94f16aa68dc7a062a16f087bc9a88760cf 3202684 cinnamon-session_2.0.5-sid.tar.gz
+ d39f8f9251060fd4ac3163870f0400655127d0fd681272460c8590f1bb53f683 141038 cinnamon-session-common_2.0.5-sid_all.deb
+ 961b6a3a51c4b91c51a19c251e1bf94281f1aff07ac03dd1db9293c65efd5c7e 102196 cinnamon-session_2.0.5-sid_amd64.deb
+Files: 
+ 040f9f596949e70307aa4dafeefb2fa2 1041 gnome optional cinnamon-session_2.0.5-sid.dsc
+ d9aae9925ebc7824e9b92898d18813d8 3202684 gnome optional cinnamon-session_2.0.5-sid.tar.gz
+ 98197a44a6c47649dd35a2ad760d7ba7 141038 gnome optional cinnamon-session-common_2.0.5-sid_all.deb
+ acdfc428a2fe3df3bca1ca1718bdc39f 102196 gnome optional cinnamon-session_2.0.5-sid_amd64.deb

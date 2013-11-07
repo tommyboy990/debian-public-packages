@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:38:11 +0100
+Source: cinnamon-screensaver
+Binary: cinnamon-screensaver
+Architecture: source amd64
+Version: 2.0.3-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-screensaver - Cinnamon screen saver and locker
+Changes: 
+ cinnamon-screensaver (2.0.3-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ a89a94c367063bf27b23a842aeea99e77144ebe6 1076 cinnamon-screensaver_2.0.3-sid.dsc
+ 8c765edce53b83ba7a52ad51998e186f4a1b36fb 1297336 cinnamon-screensaver_2.0.3-sid.tar.gz
+ 7275affcd8551022b45d330b9f184b8e435912fb 79690 cinnamon-screensaver_2.0.3-sid_amd64.deb
+Checksums-Sha256: 
+ 2f4c41a9de8f16007943c6640ac144900fa5aae4a1f175719e84e625f3ffb796 1076 cinnamon-screensaver_2.0.3-sid.dsc
+ 8181290610b5c8b1068fb54d408df48df282ac0efd8ba799a4838419815f3291 1297336 cinnamon-screensaver_2.0.3-sid.tar.gz
+ cf73793b4d99f4b77db401ce511ca8262610c9963b136c4b69b5f79eac39002c 79690 cinnamon-screensaver_2.0.3-sid_amd64.deb
+Files: 
+ 993fbfeb24fdc5b78d765b02146bd4be 1076 gnome optional cinnamon-screensaver_2.0.3-sid.dsc
+ 041ef6f281a6ff182abc1a53d026e698 1297336 gnome optional cinnamon-screensaver_2.0.3-sid.tar.gz
+ f8322a4c505088b508ea9b601d8df74d 79690 gnome optional cinnamon-screensaver_2.0.3-sid_amd64.deb
+Original-Maintainer: Guilherme de S. Pastore <gpastore@debian.org>

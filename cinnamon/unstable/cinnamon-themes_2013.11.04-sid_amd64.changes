@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:39:35 +0100
+Source: cinnamon-themes
+Binary: cinnamon-themes
+Architecture: source all
+Version: 2013.11.04-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-themes - Cinnamon themes
+Changes: 
+ cinnamon-themes (2013.11.04-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ 75251e2016e8fa118352b42b7b9f365affbfce9d 609 cinnamon-themes_2013.11.04-sid.dsc
+ ca67dcd13ba8077b034e02e8883f2f1b79196672 415811 cinnamon-themes_2013.11.04-sid.tar.gz
+ 154cf4b45bcf85206000003309a3bd8c28834a6c 144916 cinnamon-themes_2013.11.04-sid_all.deb
+Checksums-Sha256: 
+ b91571bd822414852c1270caea25f29f0b567293cc33fb1d6bc757650c374750 609 cinnamon-themes_2013.11.04-sid.dsc
+ 32e9ead0931980de507bbb4a6f689a03a55f958f7f991bd3b5ceb0f4445b4a66 415811 cinnamon-themes_2013.11.04-sid.tar.gz
+ 870e57a88ebbec7f7ceadaa889501bcd76771d40b1d9b8aa8fc668fce9bfbc18 144916 cinnamon-themes_2013.11.04-sid_all.deb
+Files: 
+ d597e8a862091f74d797e16211a469f8 609 universe/gnome optional cinnamon-themes_2013.11.04-sid.dsc
+ fb63fa997cf68846cbab46a4dd6e4665 415811 universe/gnome optional cinnamon-themes_2013.11.04-sid.tar.gz
+ 16ca975e3cf92a64ff936d47b851faee 144916 universe/gnome optional cinnamon-themes_2013.11.04-sid_all.deb

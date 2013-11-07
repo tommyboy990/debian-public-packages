@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:16:56 +0100
+Source: cinnamon-desktop
+Binary: cinnamon-desktop-data libcinnamon-desktop0 libcinnamon-desktop-dev gir1.2-cinnamondesktop-3.0
+Architecture: source all amd64
+Version: 2.0.3-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-desktop-data - Common files for Cinnamon desktop apps
+ gir1.2-cinnamondesktop-3.0 - Introspection data for CinnamonDesktop
+ libcinnamon-desktop-dev - Utility library for loading .desktop files - development files
+ libcinnamon-desktop0 - Utility library for loading .desktop files - runtime files
+Changes: 
+ cinnamon-desktop (2.0.3-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ f1f5799b4ed51ccbba7b97f508fa2681c1138147 1305 cinnamon-desktop_2.0.3-sid.dsc
+ e05fe60148f5f1603ae2e020854894a2d3b400a9 7882290 cinnamon-desktop_2.0.3-sid.tar.gz
+ 93ea794fb2325e732f6e18b01ceaeed337cb5908 192480 cinnamon-desktop-data_2.0.3-sid_all.deb
+ ce91acf70a2f2fa0009c1fdb7f39e5ebac86580b 132768 libcinnamon-desktop0_2.0.3-sid_amd64.deb
+ d09468eed498824e328634a9d77b3f6bb81b2a7b 87318 libcinnamon-desktop-dev_2.0.3-sid_amd64.deb
+ a0d49a77269b46ec12a20a489bd2d49b0bce5f67 75270 gir1.2-cinnamondesktop-3.0_2.0.3-sid_amd64.deb
+Checksums-Sha256: 
+ 0c164a1be55ad2a4fee7bde39b1ca9716361d6993a62627fb970a8c12a5939b7 1305 cinnamon-desktop_2.0.3-sid.dsc
+ b6406f8a1161e6c2a644fdbb1e3db4de0a0634289b30aec77582c5a7b465e712 7882290 cinnamon-desktop_2.0.3-sid.tar.gz
+ 3b3a038c0019f171aad609a8546490882c908d7dfa7d21e2b539d9b7c01c12ea 192480 cinnamon-desktop-data_2.0.3-sid_all.deb
+ 2ceca729f564ab78025e4cc9634abbf42176889b2b91035b21e309b729a70ff6 132768 libcinnamon-desktop0_2.0.3-sid_amd64.deb
+ a6f203a8539c3c1abf508b2d26d1a21b1c3a01003007dd6dd4e39c5509053f68 87318 libcinnamon-desktop-dev_2.0.3-sid_amd64.deb
+ b731c90775ee3ea7f9055d14ada366d77322947f3945c3503032cbf618f49f57 75270 gir1.2-cinnamondesktop-3.0_2.0.3-sid_amd64.deb
+Files: 
+ 0630bf8d7a9718e7bbc41f0a1f12d81c 1305 x11 optional cinnamon-desktop_2.0.3-sid.dsc
+ d7246ffd19d21f55eb9a121b36c419a9 7882290 x11 optional cinnamon-desktop_2.0.3-sid.tar.gz
+ ddfb6c0b00998a6db5a86ef48973eab3 192480 x11 optional cinnamon-desktop-data_2.0.3-sid_all.deb
+ 158dd5cc723acdf0db2397ccd5ba6226 132768 libs optional libcinnamon-desktop0_2.0.3-sid_amd64.deb
+ 86da01558fafbf53a71f8d0bf77f4724 87318 libdevel optional libcinnamon-desktop-dev_2.0.3-sid_amd64.deb
+ 7c7f7220b3ff066e3730c3ca76414dc4 75270 introspection optional gir1.2-cinnamondesktop-3.0_2.0.3-sid_amd64.deb

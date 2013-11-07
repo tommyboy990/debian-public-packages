@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:22:10 +0100
+Source: cinnamon-settings-daemon
+Binary: cinnamon-settings-daemon cinnamon-settings-daemon-dev
+Architecture: source amd64
+Version: 2.0.7-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-settings-daemon - daemon handling the Cinnamon session settings
+ cinnamon-settings-daemon-dev - Headers for building applications communicating with cinnamon-set
+Changes: 
+ cinnamon-settings-daemon (2.0.7-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ 95b77398847b47b2dfc9d6b66815829101937f3d 1373 cinnamon-settings-daemon_2.0.7-sid.dsc
+ 7bf519b4913d42b99af45ba3bff67828df28ff6b 6295097 cinnamon-settings-daemon_2.0.7-sid.tar.gz
+ aee58a15f7d9d3d25d60347050109ccc1fd56140 958106 cinnamon-settings-daemon_2.0.7-sid_amd64.deb
+ 999793d758ce95e7b677cae59347abe1bcee5fed 36218 cinnamon-settings-daemon-dev_2.0.7-sid_amd64.deb
+Checksums-Sha256: 
+ 1589b31a279e4541e760314ebef8ac465ed5d325572046f73b160a874129c491 1373 cinnamon-settings-daemon_2.0.7-sid.dsc
+ b078f7153fe300989ef5b60fdb4c742025438f8aaab8d0c0d5f422cc66956f47 6295097 cinnamon-settings-daemon_2.0.7-sid.tar.gz
+ eaee54b07d7bd6f0e9a70c8022ad28416ee8f5477db440dc397c566a89047d38 958106 cinnamon-settings-daemon_2.0.7-sid_amd64.deb
+ abfabe1b8144885d3f0082ddb9e54c01db1aeed65e33d6c7659e55f5280e8591 36218 cinnamon-settings-daemon-dev_2.0.7-sid_amd64.deb
+Files: 
+ 1da157e620daeb4985a7a2e5178a8805 1373 gnome optional cinnamon-settings-daemon_2.0.7-sid.dsc
+ d50bb9b6c910712b94007c0973367301 6295097 gnome optional cinnamon-settings-daemon_2.0.7-sid.tar.gz
+ 3770c04028075922b5039dd750c9d01a 958106 gnome optional cinnamon-settings-daemon_2.0.7-sid_amd64.deb
+ b4f04e7614f9c043bdc388de7482cde1 36218 gnome optional cinnamon-settings-daemon-dev_2.0.7-sid_amd64.deb
