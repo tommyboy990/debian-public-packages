@@ -1,0 +1,48 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:26:54 +0100
+Source: muffin
+Binary: muffin libmuffin0 muffin-common libmuffin-dev muffin-dbg gir1.2-muffin-3.0
+Architecture: source amd64 all
+Version: 2.0.4-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ gir1.2-muffin-3.0 - GObject introspection data for Muffin
+ libmuffin-dev - Development files for the Muffin window manager
+ libmuffin0 - window manager library from the Muffin window manager
+ muffin     - Muffin window manager
+ muffin-common - shared files for the Muffin window manager
+ muffin-dbg - Debugging symbols for the Muffin window manager
+Changes: 
+ muffin (2.0.4-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ dc0e0c7d950dc7122a69f4a26095c967cbf98192 1398 muffin_2.0.4-sid.dsc
+ 914de3d365eb2b0847d7f2bace39915d9eea94f4 6539143 muffin_2.0.4-sid.tar.gz
+ b95cd8e037f5b68eb0869d80b665589c27d950af 23104 muffin_2.0.4-sid_amd64.deb
+ d46e53a7cba795104f6c3aa47680782a4b7365e4 271556 libmuffin0_2.0.4-sid_amd64.deb
+ fcdfba6a567618b9734b6dcbd8be277ba570e4cd 734370 muffin-common_2.0.4-sid_all.deb
+ 95844c3084561a530d7b2eb318c86c4584c4eea7 47526 libmuffin-dev_2.0.4-sid_amd64.deb
+ c0aec10c6ad2d710892fcb8c7cd7d8a120b0aee1 764158 muffin-dbg_2.0.4-sid_amd64.deb
+ 4d54d9fa3c6d47f88af2f2c18ff6491326795aba 16110 gir1.2-muffin-3.0_2.0.4-sid_amd64.deb
+Checksums-Sha256: 
+ a06bd54260ff1a3e1d74244798b7642fe1f46517ad67d1f4407e4aa136846aca 1398 muffin_2.0.4-sid.dsc
+ c993c83e3b898dff550ad9386e55143b80cf32e7871ed24a1da27d483109eafd 6539143 muffin_2.0.4-sid.tar.gz
+ b3647d02dcf574f01ae90bcfb0e179e1450f7dd4d9b3698f4096179271fa7144 23104 muffin_2.0.4-sid_amd64.deb
+ 6db155e86d9eb6a736e07eeab58b1233395e5a100c5e6e31a3259889d940fc08 271556 libmuffin0_2.0.4-sid_amd64.deb
+ 3f39ed341b0f523a9b9666841c6ee05821fcc1b02e289e2f285a34e14f20ceb5 734370 muffin-common_2.0.4-sid_all.deb
+ 09f1a772f2cefae661b56f1486aca27ebd2bdfe9717997ca65dd9256ac796a14 47526 libmuffin-dev_2.0.4-sid_amd64.deb
+ aaef933714394f82083a02d5f43ba06187ef310bdcd2c5c6016c134e10231f14 764158 muffin-dbg_2.0.4-sid_amd64.deb
+ e689547ac9e11c807a7a9f269568783025f21f37799a530e92339d1ea0fdb80e 16110 gir1.2-muffin-3.0_2.0.4-sid_amd64.deb
+Files: 
+ 93e73882ff48ead6f844af11ab4446f4 1398 x11 optional muffin_2.0.4-sid.dsc
+ e1d8e85fbaac77452cec2a1318c6344e 6539143 x11 optional muffin_2.0.4-sid.tar.gz
+ ebc2acdeb5723bfe33c33a90dee50092 23104 x11 optional muffin_2.0.4-sid_amd64.deb
+ 7ea2f531c82937610ee5e09d4901a038 271556 libs optional libmuffin0_2.0.4-sid_amd64.deb
+ 4a8e3d2bad9ac0a66ae8c47ae2946cf1 734370 misc optional muffin-common_2.0.4-sid_all.deb
+ 16fb58a0653f567d95dd7924084f7b16 47526 libdevel optional libmuffin-dev_2.0.4-sid_amd64.deb
+ d1d04b1992d7df275a079dbb653ab450 764158 debug extra muffin-dbg_2.0.4-sid_amd64.deb
+ 930031344714dfc090c288c78ca2e326 16110 libs optional gir1.2-muffin-3.0_2.0.4-sid_amd64.deb
