@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:33:23 +0100
+Source: cinnamon
+Binary: cinnamon cinnamon-dbg cinnamon-common
+Architecture: source amd64 all
+Version: 2.0.11-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon   - Cinnamon desktop
+ cinnamon-common - Cinnamon desktop (Common data files)
+ cinnamon-dbg - Debugging symbols for the Cinnamon desktop
+Changes: 
+ cinnamon (2.0.11-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ 9e1bbc71e5c6bfc03a20b90830b0cad69fed65ef 1540 cinnamon_2.0.11-sid.dsc
+ 0d19ea4ba4b5b61aea0d537925189b10bba332b5 17116980 cinnamon_2.0.11-sid.tar.gz
+ b198cf520703de46c06f33ee255a850a842e23e8 541066 cinnamon_2.0.11-sid_amd64.deb
+ bde29ca8c015ed96996e8cdc4b76539c2943903e 624538 cinnamon-dbg_2.0.11-sid_amd64.deb
+ 628c424105cc1a0cca0368abda9da44bd88004e8 1562240 cinnamon-common_2.0.11-sid_all.deb
+Checksums-Sha256: 
+ 01fc36809f992efc1789eb6d362e8df4f7b6bfb6187f532b6d121a65c59abac7 1540 cinnamon_2.0.11-sid.dsc
+ 583d2889771e9ff189f9844da9f0f0d9daba149773ecc297f973dd254084f0bc 17116980 cinnamon_2.0.11-sid.tar.gz
+ 9e7b717d51bca00d1ad57626d19532e07771d7dbf654faa781ff53baae5046bf 541066 cinnamon_2.0.11-sid_amd64.deb
+ d8146766a8b22364862b21fec512d0e638595d638aca4d820aaae3c3a48bdd93 624538 cinnamon-dbg_2.0.11-sid_amd64.deb
+ c6c400187c0ece6d1f07e9d55eeb5e81d05336a4eddd41831b6f376fc6eeb623 1562240 cinnamon-common_2.0.11-sid_all.deb
+Files: 
+ 765fd814f6f35acdb1546efd018f26e5 1540 gnome optional cinnamon_2.0.11-sid.dsc
+ 4ebd413d8b8816250ade2518b312344e 17116980 gnome optional cinnamon_2.0.11-sid.tar.gz
+ 2e37da4e3bc364d0a07f4fb2aed036ae 541066 gnome optional cinnamon_2.0.11-sid_amd64.deb
+ 361f2fd1586d3ce0ade18bc535638920 624538 debug extra cinnamon-dbg_2.0.11-sid_amd64.deb
+ 4d02204ebcaded92f106fc5c50a7c7d2 1562240 gnome optional cinnamon-common_2.0.11-sid_all.deb

@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:18:38 +0100
+Source: cjs
+Binary: cjs libcjs0c libcjs-dev
+Architecture: source amd64
+Version: 2.0.0-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cjs        - Mozilla-based javascript bindings for the GNOME platform
+ libcjs-dev - Mozilla-based javascript bindings for the GNOME platform
+ libcjs0c   - Mozilla-based javascript bindings for the GNOME platform
+Changes: 
+ cjs (2.0.0-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ 17caa70cc407ee9e93f3a85028945dbf1890aff5 815 cjs_2.0.0-sid.dsc
+ 0672802d4c95c324fcdaa6aa5aff2b0290845fdb 1295141 cjs_2.0.0-sid.tar.gz
+ 42b20991ee2ea744bef59487665823262f4e8203 9610 cjs_2.0.0-sid_amd64.deb
+ 034218abc5317032e877cde4d89b362606893560 179376 libcjs0c_2.0.0-sid_amd64.deb
+ bcf1457bef7d881b772e60f5a1c7a19976420246 19232 libcjs-dev_2.0.0-sid_amd64.deb
+Checksums-Sha256: 
+ 7fff9020c9de5c91ba732e1e58391382b84ded42ef2e76f05400534c1846fd9e 815 cjs_2.0.0-sid.dsc
+ 3a2b70f9eda46de1265fcaae4ddbed7c7ae8d2dc917d06c78949b481fca3a291 1295141 cjs_2.0.0-sid.tar.gz
+ 6f16dbcb3bed7d72054a8949451e93f630514c3756452a4e73e6dd4b94945ce6 9610 cjs_2.0.0-sid_amd64.deb
+ 93c94b21b28f92300eea32ac41df8ae0a13937fa3bc9b60271a8f7e4157773df 179376 libcjs0c_2.0.0-sid_amd64.deb
+ e7581dd0dac54da9bc8a5a77e97eb3116550446e595f9192255f440aa63166be 19232 libcjs-dev_2.0.0-sid_amd64.deb
+Files: 
+ 1710ef8c094f8bd78dac3b364b2e25c9 815 interpreters optional cjs_2.0.0-sid.dsc
+ 41a9b468a093832d850ab5b7df5db7f2 1295141 interpreters optional cjs_2.0.0-sid.tar.gz
+ 84c873398a88db2a5b0f051016138581 9610 interpreters optional cjs_2.0.0-sid_amd64.deb
+ 2288b352b5c55455484178467ae1fb78 179376 libs optional libcjs0c_2.0.0-sid_amd64.deb
+ 12f82c373b28c237aa9ac9e0955c5040 19232 libdevel optional libcjs-dev_2.0.0-sid_amd64.deb
