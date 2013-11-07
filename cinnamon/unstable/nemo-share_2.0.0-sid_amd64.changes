@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:07:49 +0100
+Source: nemo-share
+Binary: nemo-share
+Architecture: source amd64
+Version: 2.0.0-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-share - Nemo extension to share folder using Samba
+Changes: 
+ nemo-share (2.0.0-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ b05e7caa6423370bf1408c735efce6955553d87c 660 nemo-share_2.0.0-sid.dsc
+ 0eb57c892518148f9072234d46228febbb9641d1 480936 nemo-share_2.0.0-sid.tar.gz
+ 0c8ee8dee0ac048c782202cfe322426fa1c1127e 57590 nemo-share_2.0.0-sid_amd64.deb
+Checksums-Sha256: 
+ 42db31b9b8f8b0d21c7a3b6f33a962737b8084371c3bfd136295ed0490828deb 660 nemo-share_2.0.0-sid.dsc
+ 4dde13dd580b4acb34d62ed293c9cd816db2abf77f18a1be6597336c0983124f 480936 nemo-share_2.0.0-sid.tar.gz
+ a911a8735985c6f6fd4f032b7df80306e609adb2fcbbf27f837bc474004bcea3 57590 nemo-share_2.0.0-sid_amd64.deb
+Files: 
+ 7756d675dad9bd76de6947b6a0724e3e 660 gnome optional nemo-share_2.0.0-sid.dsc
+ c16283e9ccd164c5ba7816e9a5f45bed 480936 gnome optional nemo-share_2.0.0-sid.tar.gz
+ 027f4e18361ae064d960f92b01fbb689 57590 gnome optional nemo-share_2.0.0-sid_amd64.deb

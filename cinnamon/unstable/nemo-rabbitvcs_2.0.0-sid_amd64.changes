@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:05:54 +0100
+Source: nemo-rabbitvcs
+Binary: nemo-rabbitvcs
+Architecture: source all
+Version: 2.0.0-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-rabbitvcs - Nemo extension for RabbitVCS
+Changes: 
+ nemo-rabbitvcs (2.0.0-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ d53b3fd7ab9435cc8d01d146c4d39ba2999523c7 651 nemo-rabbitvcs_2.0.0-sid.dsc
+ 6322606c87667db93f82acb58f74cdf5d4edf3fa 15432 nemo-rabbitvcs_2.0.0-sid.tar.gz
+ 43ffbca9614cc8576ead0d0d1520f1c3672787ef 8292 nemo-rabbitvcs_2.0.0-sid_all.deb
+Checksums-Sha256: 
+ 83585be6e549f2feb2131f40a290a7cc9d0bb8508f1004671f88093f444cb829 651 nemo-rabbitvcs_2.0.0-sid.dsc
+ 47d9393b925dd2252513041c6c72bb5b0381f5bcbe6333d86e6238e6c281f22d 15432 nemo-rabbitvcs_2.0.0-sid.tar.gz
+ 56bf3cf5999be493bf2cbd8de43249eb76fa2a120eb137775e6f9ac9fad19837 8292 nemo-rabbitvcs_2.0.0-sid_all.deb
+Files: 
+ 48e6be20a3fc3f97ba60aede8886d680 651 devel optional nemo-rabbitvcs_2.0.0-sid.dsc
+ c98c8efbed2ef419253efbf6cde39cfc 15432 devel optional nemo-rabbitvcs_2.0.0-sid.tar.gz
+ cccfd0e83c9b83d5c880677d108e4d76 8292 devel optional nemo-rabbitvcs_2.0.0-sid_all.deb

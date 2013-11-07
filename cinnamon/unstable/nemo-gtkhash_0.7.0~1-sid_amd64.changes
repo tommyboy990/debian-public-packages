@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:42:57 +0100
+Source: nemo-gtkhash
+Binary: nemo-gtkhash
+Architecture: source amd64
+Version: 0.7.0~1-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-gtkhash - nemo extension for computing checksums and more using gtkhash
+Changes: 
+ nemo-gtkhash (0.7.0~1-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ c86aa68f130d0c309167eb215b47de5471fd99c4 915 nemo-gtkhash_0.7.0~1-sid.dsc
+ 849027929fbc5a49f7644a1c6195c303b31da4ce 463722 nemo-gtkhash_0.7.0~1-sid.tar.gz
+ 0ff7575f2a3f2acb20e015f4ffac56f7865a4048 31580 nemo-gtkhash_0.7.0~1-sid_amd64.deb
+Checksums-Sha256: 
+ bc612bd87fb9ed2ab590bc4786f9ce085e45469c18c980cf2ecd1b5681601ae4 915 nemo-gtkhash_0.7.0~1-sid.dsc
+ 0f620110c8adbaf28fd1c653aeb0903c0452c34891bfdf713de63a4dc0cc842c 463722 nemo-gtkhash_0.7.0~1-sid.tar.gz
+ fa00165046f341fd5314a80f79dd9cdc305a29668dbe990fc5705719bab69b94 31580 nemo-gtkhash_0.7.0~1-sid_amd64.deb
+Files: 
+ e8ce767bce5ad738bb84b63ba247490e 915 utils optional nemo-gtkhash_0.7.0~1-sid.dsc
+ 614f7702b960cf7c764734faece6ad6d 463722 utils optional nemo-gtkhash_0.7.0~1-sid.tar.gz
+ a4bf9f831741e5698828bf2baf2a2566 31580 utils optional nemo-gtkhash_0.7.0~1-sid_amd64.deb

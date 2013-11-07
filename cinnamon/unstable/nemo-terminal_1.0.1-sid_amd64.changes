@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:08:55 +0100
+Source: nemo-terminal
+Binary: nemo-terminal
+Architecture: source amd64
+Version: 1.0.1-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-terminal - Nemo extension to enable an embedded terminal
+Changes: 
+ nemo-terminal (1.0.1-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ 2361a0652ca426b9a2c8520a2803c63c6060ee0b 650 nemo-terminal_1.0.1-sid.dsc
+ 19c7d844bc802a24b3b46472f90313da1b16f5c0 32724 nemo-terminal_1.0.1-sid.tar.gz
+ 060ffe905531eda1bbebbbc23f6c1fffd98e943c 19790 nemo-terminal_1.0.1-sid_amd64.deb
+Checksums-Sha256: 
+ b19e3b76a32277ec2f58aa48a688fc21b83066415f7e4c6dbdacc57e6abf2e9c 650 nemo-terminal_1.0.1-sid.dsc
+ b72ea71e3bf78d4b8451e3ef23530dc58fd01dfb4af8e8202c149a01dedf9c06 32724 nemo-terminal_1.0.1-sid.tar.gz
+ fe93ca1e89c41ad987f17fddaa1d7d4572ffa980055131e011f54fb7d8d7717b 19790 nemo-terminal_1.0.1-sid_amd64.deb
+Files: 
+ 3c572dde62fc19364c2d0cc7d508fb04 650 gnome optional nemo-terminal_1.0.1-sid.dsc
+ 2daa7ec680625bbfeab5f58a9735fa84 32724 gnome optional nemo-terminal_1.0.1-sid.tar.gz
+ f6fe4f844c1fffe687374e0b89220ecc 19790 gnome optional nemo-terminal_1.0.1-sid_amd64.deb

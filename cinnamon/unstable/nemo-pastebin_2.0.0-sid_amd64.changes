@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:44:56 +0100
+Source: nemo-pastebin
+Binary: nemo-pastebin
+Architecture: source all
+Version: 2.0.0-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-pastebin - Nemo extension to send files to a pastebin
+Changes: 
+ nemo-pastebin (2.0.0-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ e9a12dcf7f2bdc824beed1badb74b95046fdb4fb 636 nemo-pastebin_2.0.0-sid.dsc
+ bdc8111467f2caf4e05be1065c95cf4b4b750c9a 29614 nemo-pastebin_2.0.0-sid.tar.gz
+ 5147170743c497f10fe564dd53685878257b9e71 20230 nemo-pastebin_2.0.0-sid_all.deb
+Checksums-Sha256: 
+ f154bbab1cac2188da9a674b5a7428cc9c3b5cb57b7b3a5cea5d499a88358af3 636 nemo-pastebin_2.0.0-sid.dsc
+ 4243b7e7b76836879d3f56240a69bf0d2a08f52551674f5de2465764fa17bd4d 29614 nemo-pastebin_2.0.0-sid.tar.gz
+ d8971dcbcebc4de964dce9daabe1755324ecae76aa4bfc7e80e602b445aa2113 20230 nemo-pastebin_2.0.0-sid_all.deb
+Files: 
+ 90dd2b48e655ea9d3b247b01c234e830 636 gnome optional nemo-pastebin_2.0.0-sid.dsc
+ 84f58417c617bcd9758ec941170b4b83 29614 gnome optional nemo-pastebin_2.0.0-sid.tar.gz
+ bc62608f2632f2574b2827bafc4c10fb 20230 gnome optional nemo-pastebin_2.0.0-sid_all.deb

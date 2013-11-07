@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:04:25 +0100
+Source: nemo-python
+Binary: python-nemo
+Architecture: source amd64
+Version: 2.0.0-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ python-nemo - Python binding for Nemo components
+Changes: 
+ nemo-python (2.0.0-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ b9e7bd7d3d612cc9c3da76b79255d861e7bc8b10 694 nemo-python_2.0.0-sid.dsc
+ 0be73135ffb5104a363fdea66a9aa047e765abd8 242592 nemo-python_2.0.0-sid.tar.gz
+ 937b7b0ad945b12669ee0da39911bb212d98ba91 13836 python-nemo_2.0.0-sid_amd64.deb
+Checksums-Sha256: 
+ 3627ec71014f45fbcf392565ab8fb0de2d655e68a9191d495015f58eaece9bbf 694 nemo-python_2.0.0-sid.dsc
+ f04653659bc6e0174b20c4c8cdf3c529fd3c87c35ab5e56d2ea443fb2537f1e1 242592 nemo-python_2.0.0-sid.tar.gz
+ 859651ac6576031a86af53be3b7fc22e962a3cc8e613f93ba7e093d0ab704d6e 13836 python-nemo_2.0.0-sid_amd64.deb
+Files: 
+ 27d0c755b2d6491a219e4a1430f3da77 694 python optional nemo-python_2.0.0-sid.dsc
+ 7eacc5857470aee95a2b9198f74abf09 242592 python optional nemo-python_2.0.0-sid.tar.gz
+ 6c370e42f47c19d30c475d15594909d7 13836 python optional python-nemo_2.0.0-sid_amd64.deb
