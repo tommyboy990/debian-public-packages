@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:36:39 +0100
+Source: cinnamon-bluetooth
+Binary: cinnamon-bluetooth
+Architecture: source amd64
+Version: 3.8.2-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-bluetooth - Gnome Bluetooth support for the Cinnamon desktop
+Changes: 
+ cinnamon-bluetooth (3.8.2-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ 36bcead7f43be1a84191e039d0942d74c310033c 1456 cinnamon-bluetooth_3.8.2-sid.dsc
+ 3e0c463c7f20694d243dabf73fbec49d8bacaa60 3353700 cinnamon-bluetooth_3.8.2-sid.tar.gz
+ 061bbe21a7031395032771ef17d1cb9012371573 1428072 cinnamon-bluetooth_3.8.2-sid_amd64.deb
+Checksums-Sha256: 
+ a6b870cff05d0c4a8d99575e0d0085d3f16011e08e25e294ff06ba6b78c61680 1456 cinnamon-bluetooth_3.8.2-sid.dsc
+ 20db410c8e9fff848fc7ec0960b85549e588e68402fba5650affeb7fc3ee43e2 3353700 cinnamon-bluetooth_3.8.2-sid.tar.gz
+ fa22c0eb996c1724291021a8c06c06560c9448e2fe53b5c74c240dd21ad698f8 1428072 cinnamon-bluetooth_3.8.2-sid_amd64.deb
+Files: 
+ 6963ba9b5a0b9b3d0a4c84adad4a0756 1456 gnome optional cinnamon-bluetooth_3.8.2-sid.dsc
+ bd605be6baf28d01b6d2870ec639d042 3353700 gnome optional cinnamon-bluetooth_3.8.2-sid.tar.gz
+ ffe1b0f0f58b3370e36163eef9eaa482 1428072 gnome optional cinnamon-bluetooth_3.8.2-sid_amd64.deb

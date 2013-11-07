@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:29:32 +0100
+Source: cinnamon-control-center
+Binary: cinnamon-control-center cinnamon-control-center-data libcinnamon-control-center-dev libcinnamon-control-center1
+Architecture: source all amd64
+Version: 2.0.7-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-control-center - utilities to configure the Cinnamon desktop
+ cinnamon-control-center-data - configuration applets for Cinnamon - data files
+ libcinnamon-control-center-dev - utilities to configure the Cinnamon desktop
+ libcinnamon-control-center1 - utilities to configure the Cinnamon desktop
+Changes: 
+ cinnamon-control-center (2.0.7-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+Checksums-Sha1: 
+ a93fb4b2686a72ba9b612b9efebba6e491ebadf3 1889 cinnamon-control-center_2.0.7-sid.dsc
+ e159e9f95c1074c992343cfdba112a5bc6164fb7 13419585 cinnamon-control-center_2.0.7-sid.tar.gz
+ e0616ad3aa292968efdda5f32aaf6492e92c58f7 1611250 cinnamon-control-center-data_2.0.7-sid_all.deb
+ a99e2ec083e2cc5cf08593641806836c8733d824 1618980 cinnamon-control-center_2.0.7-sid_amd64.deb
+ 760d2e3a1cbb5cf5df294eccf93da749621082f7 1411210 libcinnamon-control-center-dev_2.0.7-sid_amd64.deb
+ dcc0f0a4210c10df2c525566aefc7686494604f7 1416894 libcinnamon-control-center1_2.0.7-sid_amd64.deb
+Checksums-Sha256: 
+ 91d3363fef7c6a3231dca7d063d758ea601336ee374055b2135cb09425d4f525 1889 cinnamon-control-center_2.0.7-sid.dsc
+ abe8268c89b95d0df4ec33fe6f52e5d23a8a24432c90005410b64454c48c0c4c 13419585 cinnamon-control-center_2.0.7-sid.tar.gz
+ c7f21694986f4187e616e86324093ea530ffb6ed3b87047cb144205c88c713d6 1611250 cinnamon-control-center-data_2.0.7-sid_all.deb
+ 1b9056da9d4ba32e4475e73b533551577ed5ab8abdf824462ec00089d7bb4b78 1618980 cinnamon-control-center_2.0.7-sid_amd64.deb
+ 377a247db36672bbe3cbac75e80c547e48461a8705d52a2dea467743d8f83a9d 1411210 libcinnamon-control-center-dev_2.0.7-sid_amd64.deb
+ e3ec6151ab32c8af83909930e47d62b586d0b79eb11665002a746fd72f547d99 1416894 libcinnamon-control-center1_2.0.7-sid_amd64.deb
+Files: 
+ ab2bbddfad5007838930fed780aadfc4 1889 gnome optional cinnamon-control-center_2.0.7-sid.dsc
+ 0dc56574a90fc4918f42a9993372dbbc 13419585 gnome optional cinnamon-control-center_2.0.7-sid.tar.gz
+ 3a2d6b141807a860fd14bd7157882492 1611250 gnome optional cinnamon-control-center-data_2.0.7-sid_all.deb
+ 7d3a6f851c21b2982d838b48c506e514 1618980 gnome optional cinnamon-control-center_2.0.7-sid_amd64.deb
+ ba3498c2e21f7f2f8fbe01d85ac35414 1411210 libdevel optional libcinnamon-control-center-dev_2.0.7-sid_amd64.deb
+ 66f48f5a5cb2145c07f6e87c38dab788 1416894 libs optional libcinnamon-control-center1_2.0.7-sid_amd64.deb
