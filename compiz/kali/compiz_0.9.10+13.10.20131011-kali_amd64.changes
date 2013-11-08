@@ -1,0 +1,99 @@
+Format: 1.8
+Date: Fri, 08 Nov 2013 01:06:34 +0100
+Source: compiz
+Binary: compiz compiz-core compiz-dev compiz-gnome compiz-plugins-default compiz-plugins libdecoration0 libdecoration0-dev libcompizconfig0 libcompizconfig0-dev python-compizconfig compizconfig-settings-manager compiz-plugins-main compiz-plugins-main-default compiz-plugins-main-dev compiz-plugins-extra compizconfig-backend-gconf
+Architecture: source all amd64
+Version: 1:0.9.10+13.10.20131011-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ compiz     - OpenGL window and compositing manager
+ compiz-core - OpenGL window and compositing manager
+ compiz-dev - OpenGL window and compositing manager - development files
+ compiz-gnome - OpenGL window and compositing manager - GNOME window decorator
+ compiz-plugins - OpenGL window and compositing manager - plugins
+ compiz-plugins-default - OpenGL window and compositing manager - default plugins
+ compiz-plugins-extra - transitional dummy package.
+ compiz-plugins-main - transitional dummy package.
+ compiz-plugins-main-default - transitional dummy package.
+ compiz-plugins-main-dev - transitional dummy package.
+ compizconfig-backend-gconf - transitional dummy package.
+ compizconfig-settings-manager - Compiz configuration settings manager
+ libcompizconfig0 - Settings library for plugins - OpenCompositing Project
+ libcompizconfig0-dev - Development file for plugin settings - OpenCompositing Project
+ libdecoration0 - Compiz window decoration library
+ libdecoration0-dev - Compiz window decoration library - development files
+ python-compizconfig - Compizconfig bindings for python
+Changes: 
+ compiz (1:0.9.10+13.10.20131011-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+ .
+   * most ubuntu patches removed
+ .
+   * patched to remove all unity references, session migration etc
+ .
+   * further patched to remove bug while compiling for kali
+Checksums-Sha1: 
+ 8c4d07a5510e524a0f5678d2e343b1fa02866b14 2946 compiz_0.9.10+13.10.20131011-kali.dsc
+ 50a0fab4ee58e72b4d5c1549532c9e4239f62170 5571767 compiz_0.9.10+13.10.20131011-kali.tar.gz
+ cf8c994501d2bb70b57850ab683344655fdce5df 194604 compiz_0.9.10+13.10.20131011-kali_all.deb
+ 24abd56961b5899390b5c36f4e114375ab41d28a 1354812 compiz-core_0.9.10+13.10.20131011-kali_amd64.deb
+ 66820aa5ec609d0dd884f0e0504df0485b7cc004 305448 compiz-dev_0.9.10+13.10.20131011-kali_amd64.deb
+ 62c396e0dc8cee9707881435339c8e9e5098fc93 426514 compiz-gnome_0.9.10+13.10.20131011-kali_amd64.deb
+ a468944c52166f5fcc7b49d0e596f8160416e785 1535018 compiz-plugins-default_0.9.10+13.10.20131011-kali_amd64.deb
+ 6ac069e04088c14eb14080d8ca510a2d4f9d8cfb 3214664 compiz-plugins_0.9.10+13.10.20131011-kali_amd64.deb
+ e7e8bcd7f022a963ba152fd444abdf039feb6e1b 237610 libdecoration0_0.9.10+13.10.20131011-kali_amd64.deb
+ e527d1c89af92904ac47f0fa206fd2e1a18a666b 223778 libdecoration0-dev_0.9.10+13.10.20131011-kali_amd64.deb
+ c20779a4e39d5985c70e91b0bd34a28aa702970d 357382 libcompizconfig0_0.9.10+13.10.20131011-kali_amd64.deb
+ f63c4afb85336201effefbc95f7a1daa38e5de95 213512 libcompizconfig0-dev_0.9.10+13.10.20131011-kali_amd64.deb
+ f9bd81ec8b778e6166ca54ff2951b5dbb8f23668 236254 python-compizconfig_0.9.10+13.10.20131011-kali_amd64.deb
+ 7d7cb94e268e04fa2d3786527c06cfa6192408ee 1304736 compizconfig-settings-manager_0.9.10+13.10.20131011-kali_all.deb
+ 087093ba3d4c7413ce92ed0044acc1f757809624 193964 compiz-plugins-main_0.9.10+13.10.20131011-kali_all.deb
+ 9b4f5ad0208e99ca7760413655ab27f5b5b49cef 193996 compiz-plugins-main-default_0.9.10+13.10.20131011-kali_all.deb
+ 2b1a12244da086f3caff461764dff6a66ed60fd4 193982 compiz-plugins-main-dev_0.9.10+13.10.20131011-kali_all.deb
+ 757f36382efcdc69e5610bc9d0b79e2c063f5de5 193974 compiz-plugins-extra_0.9.10+13.10.20131011-kali_all.deb
+ 3203d1a8b7916fa8fc5d34938dff4e48a83ac1a0 193998 compizconfig-backend-gconf_0.9.10+13.10.20131011-kali_all.deb
+Checksums-Sha256: 
+ 2e2dfc26f2621c0e68e807802b7f72c514d98f1b272353a494239caaf1273005 2946 compiz_0.9.10+13.10.20131011-kali.dsc
+ 586b40fe52b80ca9c253bf3e93a98bdacab3b1bfa26a6706a07fbfb1d287602f 5571767 compiz_0.9.10+13.10.20131011-kali.tar.gz
+ 7a20c548bb8c075f9b0fc7bb27b3067af4ab008111b85a735dd0df6fe0c5d36c 194604 compiz_0.9.10+13.10.20131011-kali_all.deb
+ e0d53493d2f8c7875917cd71ffd08efe1c485cc70548ebdb7739a9e8305e6ce1 1354812 compiz-core_0.9.10+13.10.20131011-kali_amd64.deb
+ 3717a7db44af2d26e66a8c5ef3e3e1b3a68d127bd10edf16eac318ea1a8ff880 305448 compiz-dev_0.9.10+13.10.20131011-kali_amd64.deb
+ 114a1e2afa296a79420c6078d49986e80b4623ec161f33c5f3233c581d45dd73 426514 compiz-gnome_0.9.10+13.10.20131011-kali_amd64.deb
+ c9584c6672f3cc18f877ac8f9a460f2ba32a13e59047efbae73d613b5e58d314 1535018 compiz-plugins-default_0.9.10+13.10.20131011-kali_amd64.deb
+ 31fa126cbb651586689e711dcc16d499264a2c13ee940dcce57886236a6de79e 3214664 compiz-plugins_0.9.10+13.10.20131011-kali_amd64.deb
+ ef0cc8af2958eee8c1cee595fecd8f1d5e43a726e594a35e20097b76dccafbb2 237610 libdecoration0_0.9.10+13.10.20131011-kali_amd64.deb
+ d824a351b231da9138e556219524f3d37e5518c2fb2d494376a2d43763167088 223778 libdecoration0-dev_0.9.10+13.10.20131011-kali_amd64.deb
+ 251d25982a4328750c61005875a2fabccabab27a097c974cdc81a7e0d50b723c 357382 libcompizconfig0_0.9.10+13.10.20131011-kali_amd64.deb
+ e0cacf0323ba61bdca68196c76bb19e6ef6da211de918c901af778fad7e3fe9c 213512 libcompizconfig0-dev_0.9.10+13.10.20131011-kali_amd64.deb
+ 3052ef8a143dd39bd3798370d612a2c4422f45028f53465a235711b663567911 236254 python-compizconfig_0.9.10+13.10.20131011-kali_amd64.deb
+ 245c957442e41d088360588db62f6d4426801a8e40e49741b3c236aa73106f55 1304736 compizconfig-settings-manager_0.9.10+13.10.20131011-kali_all.deb
+ 80b6b6628c1a07ce76c6012916a879368c2f839e449c3b3fb7a07ac8800d1d9e 193964 compiz-plugins-main_0.9.10+13.10.20131011-kali_all.deb
+ a5e8ffbec414093008e747a8fe59108adc4e88ee25c59ad33cb4025d8416909d 193996 compiz-plugins-main-default_0.9.10+13.10.20131011-kali_all.deb
+ e23f8aec870bc659cb809735a50927dd92366a072360bc068321245be48175c3 193982 compiz-plugins-main-dev_0.9.10+13.10.20131011-kali_all.deb
+ ecce8f694e54807aa2590f451858e978f6d8af0760b12c7002e2b7fd18baff29 193974 compiz-plugins-extra_0.9.10+13.10.20131011-kali_all.deb
+ b2a1331f300256a6f803f19f5f0207b06ed26f0bdaa574278f31f7f77b9a1269 193998 compizconfig-backend-gconf_0.9.10+13.10.20131011-kali_all.deb
+Files: 
+ 1f16ced42a0a7d8793863656e441cc20 2946 x11 optional compiz_0.9.10+13.10.20131011-kali.dsc
+ bc611de2256447d900f37e08e11d9cc7 5571767 x11 optional compiz_0.9.10+13.10.20131011-kali.tar.gz
+ cbc12a1b7aec91eee57223d36b4be9f8 194604 x11 optional compiz_0.9.10+13.10.20131011-kali_all.deb
+ a14b73eb784bc01592318c4717467442 1354812 x11 optional compiz-core_0.9.10+13.10.20131011-kali_amd64.deb
+ bc2fdb822aaea5a8901c1517897cff98 305448 x11 optional compiz-dev_0.9.10+13.10.20131011-kali_amd64.deb
+ 3f3ab000e903d838428de6600ac0fdcc 426514 x11 optional compiz-gnome_0.9.10+13.10.20131011-kali_amd64.deb
+ 59ef4b60606203d8636a51009bf42d2e 1535018 x11 optional compiz-plugins-default_0.9.10+13.10.20131011-kali_amd64.deb
+ ed596b9e7a871354c93e8e67d1ed35a1 3214664 x11 optional compiz-plugins_0.9.10+13.10.20131011-kali_amd64.deb
+ 0c97c368a2293025c65d277eeb62ced9 237610 x11 optional libdecoration0_0.9.10+13.10.20131011-kali_amd64.deb
+ a29fbbafe68f5926efbe68b38e9011d1 223778 libdevel optional libdecoration0-dev_0.9.10+13.10.20131011-kali_amd64.deb
+ 6c34189db5f6ecbdcc745657bddbe713 357382 x11 optional libcompizconfig0_0.9.10+13.10.20131011-kali_amd64.deb
+ 6a9d9f1c57c83a8de7e90e0b93559551 213512 libdevel optional libcompizconfig0-dev_0.9.10+13.10.20131011-kali_amd64.deb
+ 78fdc2524c702222db39d622dc284590 236254 python optional python-compizconfig_0.9.10+13.10.20131011-kali_amd64.deb
+ c82e93d1053d922634632fc7c77cc726 1304736 x11 optional compizconfig-settings-manager_0.9.10+13.10.20131011-kali_all.deb
+ a9a97d12b4b6ea6928881ed74323842c 193964 oldlibs optional compiz-plugins-main_0.9.10+13.10.20131011-kali_all.deb
+ bae9f2e82df495c8018305b00aed918c 193996 oldlibs optional compiz-plugins-main-default_0.9.10+13.10.20131011-kali_all.deb
+ 945fb8bfc1ceaf5aa5e77316bc860041 193982 oldlibs optional compiz-plugins-main-dev_0.9.10+13.10.20131011-kali_all.deb
+ 31d454bd986684d6158bf24ab0bd97e1 193974 oldlibs optional compiz-plugins-extra_0.9.10+13.10.20131011-kali_all.deb
+ 6d88c6f2ee1a7178d2b00d6127801dff 193998 oldlibs optional compizconfig-backend-gconf_0.9.10+13.10.20131011-kali_all.deb
+Original-Maintainer: Debian X Strike Force <debian-x@lists.debian.org>

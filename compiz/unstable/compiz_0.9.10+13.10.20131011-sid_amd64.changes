@@ -1,0 +1,99 @@
+Format: 1.8
+Date: Fri, 08 Nov 2013 00:56:51 +0100
+Source: compiz
+Binary: compiz compiz-core compiz-dev compiz-gnome compiz-plugins-default compiz-plugins libdecoration0 libdecoration0-dev libcompizconfig0 libcompizconfig0-dev python-compizconfig compizconfig-settings-manager compiz-plugins-main compiz-plugins-main-default compiz-plugins-main-dev compiz-plugins-extra compizconfig-backend-gconf
+Architecture: source all amd64
+Version: 1:0.9.10+13.10.20131011-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ compiz     - OpenGL window and compositing manager
+ compiz-core - OpenGL window and compositing manager
+ compiz-dev - OpenGL window and compositing manager - development files
+ compiz-gnome - OpenGL window and compositing manager - GNOME window decorator
+ compiz-plugins - OpenGL window and compositing manager - plugins
+ compiz-plugins-default - OpenGL window and compositing manager - default plugins
+ compiz-plugins-extra - transitional dummy package.
+ compiz-plugins-main - transitional dummy package.
+ compiz-plugins-main-default - transitional dummy package.
+ compiz-plugins-main-dev - transitional dummy package.
+ compizconfig-backend-gconf - transitional dummy package.
+ compizconfig-settings-manager - Compiz configuration settings manager
+ libcompizconfig0 - Settings library for plugins - OpenCompositing Project
+ libcompizconfig0-dev - Development file for plugin settings - OpenCompositing Project
+ libdecoration0 - Compiz window decoration library
+ libdecoration0-dev - Compiz window decoration library - development files
+ python-compizconfig - Compizconfig bindings for python
+Changes: 
+ compiz (1:0.9.10+13.10.20131011-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+ .
+   * most ubuntu patches removed
+ .
+   * patched to remove all unity references, session migration etc
+ .
+   * further patched to remove bug while compiling for kali
+Checksums-Sha1: 
+ 10cb017a07594dc0ab1be9b1d0bf12da2ceedb92 2942 compiz_0.9.10+13.10.20131011-sid.dsc
+ 95d96ea8bd2d36f185892749d53bbc9e80933a98 5571308 compiz_0.9.10+13.10.20131011-sid.tar.gz
+ 80232d80908c0dd06b56798fd07fabff7d8dd2e8 195378 compiz_0.9.10+13.10.20131011-sid_all.deb
+ 559ec4595b162cbe8e9d1f7fb14729fe9d66b4b5 813506 compiz-core_0.9.10+13.10.20131011-sid_amd64.deb
+ c3d92531fedff3bdbb604ca79a02cb5042bc21e2 292094 compiz-dev_0.9.10+13.10.20131011-sid_amd64.deb
+ b9727fde841f68c6d5146ee842390cb2342c0dfc 369566 compiz-gnome_0.9.10+13.10.20131011-sid_amd64.deb
+ 75e4cd5338bad3820a58a13ffcef3a804ca94643 935492 compiz-plugins-default_0.9.10+13.10.20131011-sid_amd64.deb
+ 232e8e9826e24f9a5bab2b51e1aa64cd166501eb 2069840 compiz-plugins_0.9.10+13.10.20131011-sid_amd64.deb
+ 6bca0e5db7ab0b95a4c4964423e2a79ace6b1e0d 236132 libdecoration0_0.9.10+13.10.20131011-sid_amd64.deb
+ bb8f645f88889f3ede659b39b432c2d060b0fac8 224520 libdecoration0-dev_0.9.10+13.10.20131011-sid_amd64.deb
+ 0014627d18d6978ccd5246950e7bc4f70480733b 310172 libcompizconfig0_0.9.10+13.10.20131011-sid_amd64.deb
+ 81b1d730ef178327e3b88bae2239dcb3c289ca56 211060 libcompizconfig0-dev_0.9.10+13.10.20131011-sid_amd64.deb
+ 15fcc7c72646034bf9be6c5ba130eab62eb019c9 228420 python-compizconfig_0.9.10+13.10.20131011-sid_amd64.deb
+ c949f68271c25117d82770a7fde547caf5b4b2b5 765192 compizconfig-settings-manager_0.9.10+13.10.20131011-sid_all.deb
+ 9f948aaac968004125f5bab57f3420833c551307 194740 compiz-plugins-main_0.9.10+13.10.20131011-sid_all.deb
+ 90a47d476adc20a1cb8e788e83878f998a1240e0 194750 compiz-plugins-main-default_0.9.10+13.10.20131011-sid_all.deb
+ a11ad37834a6a485c2879c5333218a6431311bd5 194748 compiz-plugins-main-dev_0.9.10+13.10.20131011-sid_all.deb
+ 48afbcaf8efd3bc92e55a49774ef70e2cd899560 194742 compiz-plugins-extra_0.9.10+13.10.20131011-sid_all.deb
+ 73f17d7483d2c324ff03bc36844cb663dd9ec0e0 194758 compizconfig-backend-gconf_0.9.10+13.10.20131011-sid_all.deb
+Checksums-Sha256: 
+ 4c484ac7a52d32ec61cdc682187b4b0c8163d608f9aac6cb6d314d2a6aff5617 2942 compiz_0.9.10+13.10.20131011-sid.dsc
+ 3ea91c95219942f936103fe841db77cfd293e5a2727663525d8c1d737582b52a 5571308 compiz_0.9.10+13.10.20131011-sid.tar.gz
+ bffbf5e537ad6093e6c1c0d7f2dbdafb7ef2a29b8b66c4deffd876a49b0addf7 195378 compiz_0.9.10+13.10.20131011-sid_all.deb
+ 221daf125d2899fda75aff4b2046f6af7ef0c9cb6264c454101a3c68e5741f4c 813506 compiz-core_0.9.10+13.10.20131011-sid_amd64.deb
+ 07d3a9e6e41fe51bc26e94f5db1496d5fc811b783b5d7873b6795bce410773c8 292094 compiz-dev_0.9.10+13.10.20131011-sid_amd64.deb
+ dd60dc61ed7791200592612c8ab726c55872b96db85bd0c7ee384f326477a9fa 369566 compiz-gnome_0.9.10+13.10.20131011-sid_amd64.deb
+ 56a6936597da5bbb698907fccb7c5228c5aa0926a61c436742fff9efb48230b4 935492 compiz-plugins-default_0.9.10+13.10.20131011-sid_amd64.deb
+ f7c7ccae65212d46c6d29d7d8c9f0216f2af0fe8e8b6ee13ce67dccf6cf5191d 2069840 compiz-plugins_0.9.10+13.10.20131011-sid_amd64.deb
+ ac1695d735b9c3de5f5784082907b8826ee13c0f2bbd2cb5fb115f59efc0ec67 236132 libdecoration0_0.9.10+13.10.20131011-sid_amd64.deb
+ 020c1daf64f5f18e7d0315a7d5eacc6256b9ccab05750e7ab9a85e8c95e7f14c 224520 libdecoration0-dev_0.9.10+13.10.20131011-sid_amd64.deb
+ 0d035de8f933126f3cea2a72f47fe4dc675c41dc4abdc1b010749796d9a581f2 310172 libcompizconfig0_0.9.10+13.10.20131011-sid_amd64.deb
+ 9b4e5de21381d241b2ea5f673f623f14496ae93fa00f87cfde8a912f7c92f7ab 211060 libcompizconfig0-dev_0.9.10+13.10.20131011-sid_amd64.deb
+ fa1d139603000a3b4f3fa0cdf5521805df8e9a19df1c40e1e155a4a1fff1fe0d 228420 python-compizconfig_0.9.10+13.10.20131011-sid_amd64.deb
+ c414840c58a9b775906dab72b4c7ab6fc3f3b3cca5c59eff2954ad191ee4eba5 765192 compizconfig-settings-manager_0.9.10+13.10.20131011-sid_all.deb
+ 940100142cb71c2d87b9f0ba8373d499d8764f35853358f028d8282087bfb638 194740 compiz-plugins-main_0.9.10+13.10.20131011-sid_all.deb
+ cb4e8f4e4e22ac7e50b982e5be459bb8b1b4f20ba7fec4edeb27ff5567877985 194750 compiz-plugins-main-default_0.9.10+13.10.20131011-sid_all.deb
+ d8811482f71b95cb6b3d51b24530304b38299c4edeb3ec9ddf34beeab84d8a6f 194748 compiz-plugins-main-dev_0.9.10+13.10.20131011-sid_all.deb
+ 74aa80ccff8b7e3c731b0a40ad2bf60e3408bf75a4dde679c3df2d77c7b963a2 194742 compiz-plugins-extra_0.9.10+13.10.20131011-sid_all.deb
+ 0dd04ea61eebc85afe91c4de1e0fab2cd2324b4ee866dfac91a3dea9f9f77273 194758 compizconfig-backend-gconf_0.9.10+13.10.20131011-sid_all.deb
+Files: 
+ 13129f0bf5c59dae4614d8d637d68adb 2942 x11 optional compiz_0.9.10+13.10.20131011-sid.dsc
+ 0676577873952b7b5f41d415facc016d 5571308 x11 optional compiz_0.9.10+13.10.20131011-sid.tar.gz
+ aa37b394b266562dd8a25353a5248c7f 195378 x11 optional compiz_0.9.10+13.10.20131011-sid_all.deb
+ 03a6cd100445fc2243683816b17fbf7a 813506 x11 optional compiz-core_0.9.10+13.10.20131011-sid_amd64.deb
+ ba17fa3f6d4029cd5fb8db80f16ffcd5 292094 x11 optional compiz-dev_0.9.10+13.10.20131011-sid_amd64.deb
+ 547783f368c0f72f9c82580dfbe25efa 369566 x11 optional compiz-gnome_0.9.10+13.10.20131011-sid_amd64.deb
+ 5f5660f46f6f37798af9325736c12265 935492 x11 optional compiz-plugins-default_0.9.10+13.10.20131011-sid_amd64.deb
+ 0f9fec66acef7381b68ca4c4883ba439 2069840 x11 optional compiz-plugins_0.9.10+13.10.20131011-sid_amd64.deb
+ 21b768b46f0babc1cc4e66a03f0af5f0 236132 x11 optional libdecoration0_0.9.10+13.10.20131011-sid_amd64.deb
+ df83287ac1cbc5380fd1949268626118 224520 libdevel optional libdecoration0-dev_0.9.10+13.10.20131011-sid_amd64.deb
+ 6975b3b363f2de46a710e570b8ec417f 310172 x11 optional libcompizconfig0_0.9.10+13.10.20131011-sid_amd64.deb
+ 6945921c0922e7d241f0cb37b6a1513e 211060 libdevel optional libcompizconfig0-dev_0.9.10+13.10.20131011-sid_amd64.deb
+ d3228446d88392302dd94b4133e7daec 228420 python optional python-compizconfig_0.9.10+13.10.20131011-sid_amd64.deb
+ 85ef895764840a729ac419621eb6f25b 765192 x11 optional compizconfig-settings-manager_0.9.10+13.10.20131011-sid_all.deb
+ 3eb89079ae60732c336e23cb10bfc574 194740 oldlibs optional compiz-plugins-main_0.9.10+13.10.20131011-sid_all.deb
+ b12f647f453b745ab2feae9c0c6b03ce 194750 oldlibs optional compiz-plugins-main-default_0.9.10+13.10.20131011-sid_all.deb
+ 998ebb99bf1b12340f1ee3a11424d925 194748 oldlibs optional compiz-plugins-main-dev_0.9.10+13.10.20131011-sid_all.deb
+ c828f68afd35770074304a6ec6d29fdc 194742 oldlibs optional compiz-plugins-extra_0.9.10+13.10.20131011-sid_all.deb
+ 8d80a3200e39bc85d68552d913f3f9ea 194758 oldlibs optional compizconfig-backend-gconf_0.9.10+13.10.20131011-sid_all.deb
+Original-Maintainer: Debian X Strike Force <debian-x@lists.debian.org>

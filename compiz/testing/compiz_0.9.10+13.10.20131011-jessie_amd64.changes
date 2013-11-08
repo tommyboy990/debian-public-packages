@@ -1,0 +1,99 @@
+Format: 1.8
+Date: Fri, 08 Nov 2013 00:32:45 +0100
+Source: compiz
+Binary: compiz compiz-core compiz-dev compiz-gnome compiz-plugins-default compiz-plugins libdecoration0 libdecoration0-dev libcompizconfig0 libcompizconfig0-dev python-compizconfig compizconfig-settings-manager compiz-plugins-main compiz-plugins-main-default compiz-plugins-main-dev compiz-plugins-extra compizconfig-backend-gconf
+Architecture: source all amd64
+Version: 1:0.9.10+13.10.20131011-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ compiz     - OpenGL window and compositing manager
+ compiz-core - OpenGL window and compositing manager
+ compiz-dev - OpenGL window and compositing manager - development files
+ compiz-gnome - OpenGL window and compositing manager - GNOME window decorator
+ compiz-plugins - OpenGL window and compositing manager - plugins
+ compiz-plugins-default - OpenGL window and compositing manager - default plugins
+ compiz-plugins-extra - transitional dummy package.
+ compiz-plugins-main - transitional dummy package.
+ compiz-plugins-main-default - transitional dummy package.
+ compiz-plugins-main-dev - transitional dummy package.
+ compizconfig-backend-gconf - transitional dummy package.
+ compizconfig-settings-manager - Compiz configuration settings manager
+ libcompizconfig0 - Settings library for plugins - OpenCompositing Project
+ libcompizconfig0-dev - Development file for plugin settings - OpenCompositing Project
+ libdecoration0 - Compiz window decoration library
+ libdecoration0-dev - Compiz window decoration library - development files
+ python-compizconfig - Compizconfig bindings for python
+Changes: 
+ compiz (1:0.9.10+13.10.20131011-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+ .
+   * most ubuntu patches removed
+ .
+   * patched to remove all unity references, session migration etc
+ .
+   * further patched to remove bug while compiling for kali
+Checksums-Sha1: 
+ f5645187c2831294591928e2d136dc626ad20977 2954 compiz_0.9.10+13.10.20131011-jessie.dsc
+ 28c7aabeaa88eddae0d3e29e7f1d4ef87892c5d5 5571707 compiz_0.9.10+13.10.20131011-jessie.tar.gz
+ 083574eda182be0c089d1623e0b419172c022c2d 194608 compiz_0.9.10+13.10.20131011-jessie_all.deb
+ 499ee1a60d3a5a75474a636e633449ab49a86b89 1328306 compiz-core_0.9.10+13.10.20131011-jessie_amd64.deb
+ 285018480db51143134171c2a187c77eaed247b6 305448 compiz-dev_0.9.10+13.10.20131011-jessie_amd64.deb
+ b2b2573fffcb401ef471efb9106a9093468e3ad4 422494 compiz-gnome_0.9.10+13.10.20131011-jessie_amd64.deb
+ 081c8eeba4573215423bdf5bed36e2cbb4aafd82 1411030 compiz-plugins-default_0.9.10+13.10.20131011-jessie_amd64.deb
+ f951011552c995c1ad3049fcdd9182bd50b221e1 3005840 compiz-plugins_0.9.10+13.10.20131011-jessie_amd64.deb
+ 34fd2012f32e4380f63f1d8120c79a61c9448c4b 237416 libdecoration0_0.9.10+13.10.20131011-jessie_amd64.deb
+ 99352d1309472a611b9e6dce42fb89417baaecb9 223786 libdecoration0-dev_0.9.10+13.10.20131011-jessie_amd64.deb
+ fe43e19682e1762887d1d5ecdc06e933b63f18f7 343566 libcompizconfig0_0.9.10+13.10.20131011-jessie_amd64.deb
+ c2bdaf84c7e0255a57580a843003652aa69de12b 213518 libcompizconfig0-dev_0.9.10+13.10.20131011-jessie_amd64.deb
+ f61d913f65b76315bad10528f56e16c068236ade 235754 python-compizconfig_0.9.10+13.10.20131011-jessie_amd64.deb
+ c9e60ff06298929105f2b93c059ccc90b45aca29 1304756 compizconfig-settings-manager_0.9.10+13.10.20131011-jessie_all.deb
+ 8b68816e8713589e4c9206ef8dbb60839e58223d 193980 compiz-plugins-main_0.9.10+13.10.20131011-jessie_all.deb
+ 6f38beb670fa91a9900284d9ddad1b1959d00458 194008 compiz-plugins-main-default_0.9.10+13.10.20131011-jessie_all.deb
+ a1077257ff5937138008431f51e20df30d1ae926 193994 compiz-plugins-main-dev_0.9.10+13.10.20131011-jessie_all.deb
+ f03cd922bc0ad6c30f64bd6010b99598e31b885c 193986 compiz-plugins-extra_0.9.10+13.10.20131011-jessie_all.deb
+ 279007ab62801dd635066e44470adb382d044aec 194006 compizconfig-backend-gconf_0.9.10+13.10.20131011-jessie_all.deb
+Checksums-Sha256: 
+ 6cae4593c0fb73b5f99996bbff7fae6aa57325a98fd3c2a15554087f9fd110a7 2954 compiz_0.9.10+13.10.20131011-jessie.dsc
+ 32ab81d5b99885d21e5d8b66127b0d54dc64037c96c2b101c00824ac0b5d53f2 5571707 compiz_0.9.10+13.10.20131011-jessie.tar.gz
+ 58f87ea274fe7057eb85ba232f73aeb76a3965e2f87c1123b08ec358e7c9de99 194608 compiz_0.9.10+13.10.20131011-jessie_all.deb
+ 0d5a026348c7273b586228023fa9aec9cad6f4273281459ed50141c363d9f48f 1328306 compiz-core_0.9.10+13.10.20131011-jessie_amd64.deb
+ 1cc29832fe8d21f6d53e2aa423585e16fb96368b1a08a20c9ab30683dc1fa29c 305448 compiz-dev_0.9.10+13.10.20131011-jessie_amd64.deb
+ 9fa2163c4da69203e08b644db8ba33f6b3c7225f9556e128e1e878f50da18089 422494 compiz-gnome_0.9.10+13.10.20131011-jessie_amd64.deb
+ c4d93f944a82c8feb5103ba3994a4dd6a302427865b02e50f1cf509c2351ef66 1411030 compiz-plugins-default_0.9.10+13.10.20131011-jessie_amd64.deb
+ a54b93bd8449392e3830e099cdea0d4fba32b30f4cc8714fa6ecd2925e23c137 3005840 compiz-plugins_0.9.10+13.10.20131011-jessie_amd64.deb
+ d359306853374653e91351a9f98660d9d21c8162bf51a21013436eff5e2de603 237416 libdecoration0_0.9.10+13.10.20131011-jessie_amd64.deb
+ 8cecdb4d6a8f7a3dcb733af619bf5a2a2cb7013044c1b6c82d961a78adb1a177 223786 libdecoration0-dev_0.9.10+13.10.20131011-jessie_amd64.deb
+ 1f5874717d08dfabd36d1333d7039912dd7de3f81b7b55e5ceb75ac237799df1 343566 libcompizconfig0_0.9.10+13.10.20131011-jessie_amd64.deb
+ 6a443a21303706463ebcd809fc1f995ef3b7b57b0f16e64193c3b52b685faa72 213518 libcompizconfig0-dev_0.9.10+13.10.20131011-jessie_amd64.deb
+ 3fd2abed5328df87a53711f7a04ab8ffe6ff4aec24b67fd809158649b5f9e659 235754 python-compizconfig_0.9.10+13.10.20131011-jessie_amd64.deb
+ b327d1456bef3df26f2a6606e6d21b316aeae362ece24f9109399dd798f4aa6b 1304756 compizconfig-settings-manager_0.9.10+13.10.20131011-jessie_all.deb
+ f5eb19f6d25ddb51a8de10b0dd3a1a2a036a19e446ae1f2312bac383daae84c5 193980 compiz-plugins-main_0.9.10+13.10.20131011-jessie_all.deb
+ 0f860a7b3e46c32687afb701f901c0336926c9b1d8984edc2a66bd9844879652 194008 compiz-plugins-main-default_0.9.10+13.10.20131011-jessie_all.deb
+ e8084131f8575061aa03ebf4ddcf92b1029ff938f4054029628992876dd90b50 193994 compiz-plugins-main-dev_0.9.10+13.10.20131011-jessie_all.deb
+ 294f172c46d7c7d6f00434d3faa1fc42c4e8eae4470ee231e2b277bcf677183e 193986 compiz-plugins-extra_0.9.10+13.10.20131011-jessie_all.deb
+ 116c9a552c4546c7d7adb01ded29706bc6abe28f3765358e07cc55b55c842e1b 194006 compizconfig-backend-gconf_0.9.10+13.10.20131011-jessie_all.deb
+Files: 
+ faac6f92cb9adacbe1e3bbf79beee8ce 2954 x11 optional compiz_0.9.10+13.10.20131011-jessie.dsc
+ 1cb70a5eec0640001bc093a5865addcc 5571707 x11 optional compiz_0.9.10+13.10.20131011-jessie.tar.gz
+ 30b5fdbcec206bc8a89e0a46dc95dd1f 194608 x11 optional compiz_0.9.10+13.10.20131011-jessie_all.deb
+ badee3051533bf3a64b2734f4ae2f07f 1328306 x11 optional compiz-core_0.9.10+13.10.20131011-jessie_amd64.deb
+ 37a6384cba40aa56bab76154a8a4002f 305448 x11 optional compiz-dev_0.9.10+13.10.20131011-jessie_amd64.deb
+ 2336593461b8d7fc79023fce9173f27e 422494 x11 optional compiz-gnome_0.9.10+13.10.20131011-jessie_amd64.deb
+ 74a1544580668006eda508318555b839 1411030 x11 optional compiz-plugins-default_0.9.10+13.10.20131011-jessie_amd64.deb
+ 09087105c41955fcb629e865692450c7 3005840 x11 optional compiz-plugins_0.9.10+13.10.20131011-jessie_amd64.deb
+ 94a94658978c3d06c26e45c831802c78 237416 x11 optional libdecoration0_0.9.10+13.10.20131011-jessie_amd64.deb
+ 248e1b789057480c2848d5ae3344f353 223786 libdevel optional libdecoration0-dev_0.9.10+13.10.20131011-jessie_amd64.deb
+ 7bd97830e4f5726bbe550b0388a16cde 343566 x11 optional libcompizconfig0_0.9.10+13.10.20131011-jessie_amd64.deb
+ 73e9b1a5d8497546865a036ad994143d 213518 libdevel optional libcompizconfig0-dev_0.9.10+13.10.20131011-jessie_amd64.deb
+ ae209f409906f09c4abf48201cf3bf0f 235754 python optional python-compizconfig_0.9.10+13.10.20131011-jessie_amd64.deb
+ 21ec9f464be0e53aa9444966bfd63021 1304756 x11 optional compizconfig-settings-manager_0.9.10+13.10.20131011-jessie_all.deb
+ bc2e4c022b246d4780d8d64b3dae3788 193980 oldlibs optional compiz-plugins-main_0.9.10+13.10.20131011-jessie_all.deb
+ 3549b88be4a59786f56d32de9211cf06 194008 oldlibs optional compiz-plugins-main-default_0.9.10+13.10.20131011-jessie_all.deb
+ 3ddf6ca6a0c3f24546b530f00d187c91 193994 oldlibs optional compiz-plugins-main-dev_0.9.10+13.10.20131011-jessie_all.deb
+ 5fbe1927da30b47dd903ad864f458679 193986 oldlibs optional compiz-plugins-extra_0.9.10+13.10.20131011-jessie_all.deb
+ 29fde509d0d56c781dcc72ab24b5c0a7 194006 oldlibs optional compizconfig-backend-gconf_0.9.10+13.10.20131011-jessie_all.deb
+Original-Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
