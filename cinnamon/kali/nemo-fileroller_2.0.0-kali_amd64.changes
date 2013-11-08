@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 23:07:23 +0100
+Source: nemo-fileroller
+Binary: nemo-fileroller
+Architecture: source amd64
+Version: 2.0.0-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-fileroller - File Roller integration for Nemo
+Changes: 
+ nemo-fileroller (2.0.0-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ 8ce7a095f31c558efd38121f1d64731042a96cdc 745 nemo-fileroller_2.0.0-kali.dsc
+ 4635ac894c92f4f4bd88cc8c48ef5cd509b26507 60250 nemo-fileroller_2.0.0-kali.tar.gz
+ 260ed956de42b38db34f325d0e10c32f9ff43fa5 7396 nemo-fileroller_2.0.0-kali_amd64.deb
+Checksums-Sha256: 
+ 39c58e78ee0dcf743ce03bdc779ae3a4467f363c4ccb4250d82c0ba040ca4778 745 nemo-fileroller_2.0.0-kali.dsc
+ f82efaf3a9d7358a533e733a3585c490071b316a25c49092678d776f9d291591 60250 nemo-fileroller_2.0.0-kali.tar.gz
+ 306846fc76bc3e2b044301d1f823a1e479f3b10d01b9bd3e579f2e87baa4c4f4 7396 nemo-fileroller_2.0.0-kali_amd64.deb
+Files: 
+ 45b296b6e70593519de4febb776af773 745 non-free/gnome optional nemo-fileroller_2.0.0-kali.dsc
+ 644ab42d143e107a763676e75d405b65 60250 non-free/gnome optional nemo-fileroller_2.0.0-kali.tar.gz
+ a762ebdc466009da6f4d8c2b18b28d6e 7396 non-free/gnome optional nemo-fileroller_2.0.0-kali_amd64.deb

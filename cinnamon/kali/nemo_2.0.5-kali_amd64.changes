@@ -1,0 +1,48 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:47:05 +0100
+Source: nemo
+Binary: nemo nemo-dbg libnemo-extension1 libnemo-extension-dev gir1.2-nemo-3.0 nemo-data
+Architecture: source amd64 all
+Version: 2.0.5-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ gir1.2-nemo-3.0 - libraries for nemo components - gir bindings
+ libnemo-extension-dev - libraries for nemo components - development version
+ libnemo-extension1 - libraries for nemo components - runtime version
+ nemo       - file manager and graphical shell for Cinnamon
+ nemo-data  - data files for nemo
+ nemo-dbg   - file manager and graphical shell for Cinnamon - debugging version
+Changes: 
+ nemo (2.0.5-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ 5966f142f9dab0dbe8d9d7d71263e318a6075707 1359 nemo_2.0.5-kali.dsc
+ 0f46544d80470fc1d22f50b1f5ef82979c94a79b 12616102 nemo_2.0.5-kali.tar.gz
+ 31f99b5931110579de5e669f9e1ab06dbc478196 1166778 nemo_2.0.5-kali_amd64.deb
+ fde550831cf4842239bb19be1bd1930db4132bc0 3617688 nemo-dbg_2.0.5-kali_amd64.deb
+ bed0c302a391990ac2552c9f753ae67f4b129a2b 218738 libnemo-extension1_2.0.5-kali_amd64.deb
+ 507a2b7fb796df5b2d50582a633366f45e56d1a2 238176 libnemo-extension-dev_2.0.5-kali_amd64.deb
+ 15ab2f015583a93cf160e744e35181648bf94d3a 209216 gir1.2-nemo-3.0_2.0.5-kali_amd64.deb
+ 5870509c329cba3d718586c69a7e27c79f572969 234520 nemo-data_2.0.5-kali_all.deb
+Checksums-Sha256: 
+ eb22d48845cb42511f87eeff17ed4cb77c378c27db361ca1bb9643f7433d18a4 1359 nemo_2.0.5-kali.dsc
+ 87eefaab9d9e53ba2ca984414c46feac96bda5c6a990462bdf5ba1712c036d76 12616102 nemo_2.0.5-kali.tar.gz
+ 4729d57bf5de36d60dd1094abde9040eed69a595ba8312011bb963d806bc8fdb 1166778 nemo_2.0.5-kali_amd64.deb
+ 596b987295381bd3c888b04280c5a5bcd90e4f9579ecad11c649fff9b54f3e42 3617688 nemo-dbg_2.0.5-kali_amd64.deb
+ 59f033be16fc3ea3a6ae1e70ba13a7f05a05ae6575a193567539dd120b0ef91c 218738 libnemo-extension1_2.0.5-kali_amd64.deb
+ 6e06c78af32ef66900288b9d49916c691004142cde152e24f4b4e29fb85c3b5b 238176 libnemo-extension-dev_2.0.5-kali_amd64.deb
+ f9eaedee5f44e03dd97d9cf71c046fd739fe0e0d415367cd1b2aba990349001c 209216 gir1.2-nemo-3.0_2.0.5-kali_amd64.deb
+ a349a48c779737fb46e9ce7b345c6787c40dcb9bd0dddb6f43fd1b473d9df246 234520 nemo-data_2.0.5-kali_all.deb
+Files: 
+ 5f71576d9c5f5266f8345fd32659e538 1359 gnome optional nemo_2.0.5-kali.dsc
+ 2aa0fc89f24dd985341591f9a9b16ea9 12616102 gnome optional nemo_2.0.5-kali.tar.gz
+ 56ae5c44f4a71542b039e1c51e598dca 1166778 gnome optional nemo_2.0.5-kali_amd64.deb
+ 97c2ff2b8ef984e22a80ebe08e8cf4ce 3617688 debug extra nemo-dbg_2.0.5-kali_amd64.deb
+ 53a95386085b1397f96f4ba1fbec5508 218738 libs optional libnemo-extension1_2.0.5-kali_amd64.deb
+ 02b05bace22c16e2b6debe4aa0526017 238176 libdevel optional libnemo-extension-dev_2.0.5-kali_amd64.deb
+ f732d2a02ac6b2793a2e59a9908a3bb5 209216 libdevel optional gir1.2-nemo-3.0_2.0.5-kali_amd64.deb
+ 44224961d3b0f407d42add9493fde0ef 234520 gnome optional nemo-data_2.0.5-kali_all.deb

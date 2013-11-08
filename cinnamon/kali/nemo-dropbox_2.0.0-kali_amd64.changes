@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 23:06:08 +0100
+Source: nemo-dropbox
+Binary: nemo-dropbox
+Architecture: source amd64
+Version: 2.0.0-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-dropbox - Dropbox integration for Nemo
+Changes: 
+ nemo-dropbox (2.0.0-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ 07d9024e7cb712ee73b8bd051890d19278a767e0 779 nemo-dropbox_2.0.0-kali.dsc
+ 00085478d515d57beb1cc1d91ec413013c8289b2 531149 nemo-dropbox_2.0.0-kali.tar.gz
+ 2865be79335819ee4cd47305a7d421e19d11b819 99264 nemo-dropbox_2.0.0-kali_amd64.deb
+Checksums-Sha256: 
+ 75d557ced86f3c0df0d6544752d78a73c29c5b8c4dd28e23576806efb85619d1 779 nemo-dropbox_2.0.0-kali.dsc
+ dd404e77a5f4546e7f12a335b710cb0d25eedc0315c97855fbd39801cc227b18 531149 nemo-dropbox_2.0.0-kali.tar.gz
+ 920a08b91c03e602eeb820267307b059e1308a44b92aa7de180e70a0f34b31cc 99264 nemo-dropbox_2.0.0-kali_amd64.deb
+Files: 
+ b010827e8cb847ca5a3d8f09956513cf 779 non-free/gnome optional nemo-dropbox_2.0.0-kali.dsc
+ b44041d1606884550a74c7488e0d1b70 531149 non-free/gnome optional nemo-dropbox_2.0.0-kali.tar.gz
+ dcc0923996eba9faa06983831fcc7262 99264 non-free/gnome optional nemo-dropbox_2.0.0-kali_amd64.deb

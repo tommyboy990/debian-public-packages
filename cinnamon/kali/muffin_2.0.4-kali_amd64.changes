@@ -1,0 +1,48 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:53:41 +0100
+Source: muffin
+Binary: muffin libmuffin0 muffin-common libmuffin-dev muffin-dbg gir1.2-muffin-3.0
+Architecture: source amd64 all
+Version: 2.0.4-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ gir1.2-muffin-3.0 - GObject introspection data for Muffin
+ libmuffin-dev - Development files for the Muffin window manager
+ libmuffin0 - window manager library from the Muffin window manager
+ muffin     - Muffin window manager
+ muffin-common - shared files for the Muffin window manager
+ muffin-dbg - Debugging symbols for the Muffin window manager
+Changes: 
+ muffin (2.0.4-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ c5700d0c1f193f4fba23724fdc6bafec3e4937e6 1402 muffin_2.0.4-kali.dsc
+ 139f5281166fa3280b53c8b61b5cc4c8988e0efb 6539180 muffin_2.0.4-kali.tar.gz
+ 7682d8a55fd4336ecdb6b76ce673f12d814ccbe7 31252 muffin_2.0.4-kali_amd64.deb
+ ed8f6e48a846cbe833e44b709c360625a8ba9270 338882 libmuffin0_2.0.4-kali_amd64.deb
+ 874cfd86cbb13e9d8068f03a6d2569b996347239 1444988 muffin-common_2.0.4-kali_all.deb
+ 68ffd42d8efa568dfa2d7331fe6c38c0d126c01d 57218 libmuffin-dev_2.0.4-kali_amd64.deb
+ 86dc1f28f1afcc0d8ad5aa93bc7dc43b30545487 1206508 muffin-dbg_2.0.4-kali_amd64.deb
+ 1113899fe3f9a5cdb8258c85573be9be8c693264 20816 gir1.2-muffin-3.0_2.0.4-kali_amd64.deb
+Checksums-Sha256: 
+ d98eafae1216da75d7df6458c30dc066ffc5034f20beff286d872ec1285c2e5d 1402 muffin_2.0.4-kali.dsc
+ c639e9561a91611ed1fb9de0c913e04661e4e6aed56a35a5f5d14115ad63908b 6539180 muffin_2.0.4-kali.tar.gz
+ 45f411eb5d3194cab4925901234946969d8e0d4d26ca23bbeb089a075b716498 31252 muffin_2.0.4-kali_amd64.deb
+ 4fce0fccfc125dcc58f588811c8ae1a4c871182751783d880450da6d97588f98 338882 libmuffin0_2.0.4-kali_amd64.deb
+ 38f215e5177d577324c2b40cc1b35db3a4a4a3fba37730f50d1fb833509456a3 1444988 muffin-common_2.0.4-kali_all.deb
+ 9fcf137740e37542c0a4476689e616cc1be83f5830dc87b88e568627cf2bcf8d 57218 libmuffin-dev_2.0.4-kali_amd64.deb
+ c1de7cdacc20ae2b68a30c6531e4f46bf560a12d227ef178e97eccf2d5df3d32 1206508 muffin-dbg_2.0.4-kali_amd64.deb
+ 79d0c76e667ac313ddf1b8e21c0778da0295f6af3996feef94784e8538e3d398 20816 gir1.2-muffin-3.0_2.0.4-kali_amd64.deb
+Files: 
+ 8d21471b7c1cd321a51eaf280184c607 1402 x11 optional muffin_2.0.4-kali.dsc
+ c6712ec85be20212d62e8e2ee8fbc4c2 6539180 x11 optional muffin_2.0.4-kali.tar.gz
+ c94b470cc20d6fa7523a603f9da5350c 31252 x11 optional muffin_2.0.4-kali_amd64.deb
+ 54ffecde18b169610dda3191ad677df4 338882 libs optional libmuffin0_2.0.4-kali_amd64.deb
+ de99f934ea46cf1f7d9346d5b2c77e20 1444988 misc optional muffin-common_2.0.4-kali_all.deb
+ 71529e2d3a58f1b6d00b63ee04b21875 57218 libdevel optional libmuffin-dev_2.0.4-kali_amd64.deb
+ 1cefa87866fbb79a42b79f4f27091b51 1206508 debug extra muffin-dbg_2.0.4-kali_amd64.deb
+ 0e283eff1b5df79c1227762ebd85824f 20816 libs optional gir1.2-muffin-3.0_2.0.4-kali_amd64.deb

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 23:05:40 +0100
+Source: nemo-compare
+Binary: nemo-compare
+Architecture: source all
+Version: 2.0.0-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-compare - Context menu comparison extension for Nemo file manager
+Changes: 
+ nemo-compare (2.0.0-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ a46c058fba95fd55741c625270bb757f810268b5 748 nemo-compare_2.0.0-kali.dsc
+ 2c6a4a8f78db270eadf453c0b7055efe3709c0fb 7670 nemo-compare_2.0.0-kali.tar.gz
+ 7c02bfb5d4b52b6730863f901468bc81979aa7e9 8528 nemo-compare_2.0.0-kali_all.deb
+Checksums-Sha256: 
+ 31fcee113d7571eb450383238235f02dbf01f4adf3cd2bec6aeed780643d027b 748 nemo-compare_2.0.0-kali.dsc
+ 849f909c49ea089773f793728a1c401ab65a2bf672af948fddab9929b147992b 7670 nemo-compare_2.0.0-kali.tar.gz
+ bf2ee8ea5f0dc8c92b702ee6d931c0dfaa6d0fa2231610b1de4fdfd0f5d028ab 8528 nemo-compare_2.0.0-kali_all.deb
+Files: 
+ 37daeffb267aeb18a7ef796fac1384e7 748 gnome extra nemo-compare_2.0.0-kali.dsc
+ 784af17c9eacd81865a68dbafe7508aa 7670 gnome extra nemo-compare_2.0.0-kali.tar.gz
+ 56a0ff24222eece3329e976103c48dfd 8528 gnome extra nemo-compare_2.0.0-kali_all.deb
