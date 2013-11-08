@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:49:10 +0100
+Source: cinnamon-settings-daemon
+Binary: cinnamon-settings-daemon cinnamon-settings-daemon-dev
+Architecture: source amd64
+Version: 2.0.7-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-settings-daemon - daemon handling the Cinnamon session settings
+ cinnamon-settings-daemon-dev - Headers for building applications communicating with cinnamon-set
+Changes: 
+ cinnamon-settings-daemon (2.0.7-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ dd22a36ed405e9c1b69d9cfbf36f62a9d8f130d8 1377 cinnamon-settings-daemon_2.0.7-kali.dsc
+ e44371c7e25a15e74892dd1b0f6799b317ef592f 6295297 cinnamon-settings-daemon_2.0.7-kali.tar.gz
+ 7dda1bba7f62a5e725f20d9592592942215e6c00 969284 cinnamon-settings-daemon_2.0.7-kali_amd64.deb
+ 96a9b254e85a31ec9e94dd9f858cf973e48b982f 36202 cinnamon-settings-daemon-dev_2.0.7-kali_amd64.deb
+Checksums-Sha256: 
+ c641e7dc9b732c2ea46c90645e08d064c08a212372317bd843229c6252adfdbf 1377 cinnamon-settings-daemon_2.0.7-kali.dsc
+ 931041079024e36788f347650ea2cb9d3f2ae4d3f88113fb705f57e759fc8fbc 6295297 cinnamon-settings-daemon_2.0.7-kali.tar.gz
+ 39159db596cfc143cf84a07b698b066ac4b531ce75ed59341babb7d041209f56 969284 cinnamon-settings-daemon_2.0.7-kali_amd64.deb
+ c86a5d8182fa10810ecaf32bae6a3be6866a04f0d868faf70ab038dd961c9141 36202 cinnamon-settings-daemon-dev_2.0.7-kali_amd64.deb
+Files: 
+ 6e0b131c232c8da25f476155091648e1 1377 gnome optional cinnamon-settings-daemon_2.0.7-kali.dsc
+ 085d8df35794902533f23631a209df4f 6295297 gnome optional cinnamon-settings-daemon_2.0.7-kali.tar.gz
+ 2ff68d9b3720bebe35750bb4a0f5deac 969284 gnome optional cinnamon-settings-daemon_2.0.7-kali_amd64.deb
+ 8cd10bff0e7b669ff6c45552f2a8613c 36202 gnome optional cinnamon-settings-daemon-dev_2.0.7-kali_amd64.deb

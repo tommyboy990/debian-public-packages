@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:52:08 +0100
+Source: cinnamon-session
+Binary: cinnamon-session cinnamon-session-common
+Architecture: source all amd64
+Version: 2.0.5-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-session - Cinnamon Session Manager - Minimal runtime
+ cinnamon-session-common - Cinnamon Session Manager - common files
+Changes: 
+ cinnamon-session (2.0.5-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ 652ae8bd0413d5c3d8cadd84e786cfbc6f247dca 1045 cinnamon-session_2.0.5-kali.dsc
+ b48aa24731334c1f9d253e75e977b195ac80cd35 3203881 cinnamon-session_2.0.5-kali.tar.gz
+ 76e1694f873cf0748b7ea4a63c05e13be8a3b153 141106 cinnamon-session-common_2.0.5-kali_all.deb
+ 88746ff21078d51f21bda6233dc4699ac688aa18 104232 cinnamon-session_2.0.5-kali_amd64.deb
+Checksums-Sha256: 
+ e52b57f6b4b508b7a62a39703ed9cea5c120cb5768aec062351d00078dff23ef 1045 cinnamon-session_2.0.5-kali.dsc
+ 49320a5d23f97ed586f5e9cf1e9b738bb61043ad7535777bba95fe3e4c602216 3203881 cinnamon-session_2.0.5-kali.tar.gz
+ b8a3a8193f9e2052f31832319d0030d06c27d4f623dd54b3eb4cf06c06d9ad92 141106 cinnamon-session-common_2.0.5-kali_all.deb
+ 21f404835a89ae2d7a329108f92af93cd75600c031780835aef93ae572156c50 104232 cinnamon-session_2.0.5-kali_amd64.deb
+Files: 
+ 194b7a65705fddce19b87dbd01b37c6d 1045 gnome optional cinnamon-session_2.0.5-kali.dsc
+ b19bb9f70327cc298c3e766c846e3613 3203881 gnome optional cinnamon-session_2.0.5-kali.tar.gz
+ 54627ac3876e901aa16fa2ae81d38326 141106 gnome optional cinnamon-session-common_2.0.5-kali_all.deb
+ cb90a7f6abf92332241f373c89214d61 104232 gnome optional cinnamon-session_2.0.5-kali_amd64.deb
