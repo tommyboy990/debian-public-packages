@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:35:38 +0100
+Source: cinnamon-bluetooth
+Binary: cinnamon-bluetooth
+Architecture: source amd64
+Version: 3.8.2-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-bluetooth - Gnome Bluetooth support for the Cinnamon desktop
+Changes: 
+ cinnamon-bluetooth (3.8.2-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 8bc314916fbdf54d434de6458d9b742a73ddf5b5 1477 cinnamon-bluetooth_3.8.2-jessie.dsc
+ 05d5e68742f2301b7d44c9e9cabf3f8c8c305bfb 1661444 cinnamon-bluetooth_3.8.2-jessie.tar.gz
+ 54ec1aa021c84da0337a9a239e33db5d16dc310f 1428308 cinnamon-bluetooth_3.8.2-jessie_amd64.deb
+Checksums-Sha256: 
+ 52ee2a7757aba327049b7b27d6bf04e266b5b1786e80fd4649b49ad3b72904a1 1477 cinnamon-bluetooth_3.8.2-jessie.dsc
+ 48bf679b1970287dcee889aea69604dae10c799ec8df3b7253d9fdeb51fa592f 1661444 cinnamon-bluetooth_3.8.2-jessie.tar.gz
+ 9bd079c61233e1f33d79392e79efd42ceb21cf8edb72f4c40e355768df885b20 1428308 cinnamon-bluetooth_3.8.2-jessie_amd64.deb
+Files: 
+ f7c106cd22169e76cd012bb4b98eec74 1477 gnome optional cinnamon-bluetooth_3.8.2-jessie.dsc
+ f78ca2c361b7c456a4e87191f335f645 1661444 gnome optional cinnamon-bluetooth_3.8.2-jessie.tar.gz
+ 7ed35b5aaf660a767a6a4f3f734652b3 1428308 gnome optional cinnamon-bluetooth_3.8.2-jessie_amd64.deb

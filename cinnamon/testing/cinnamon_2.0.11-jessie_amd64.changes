@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:31:37 +0100
+Source: cinnamon
+Binary: cinnamon cinnamon-dbg cinnamon-common
+Architecture: source amd64 all
+Version: 2.0.11-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon   - Cinnamon desktop
+ cinnamon-common - Cinnamon desktop (Common data files)
+ cinnamon-dbg - Debugging symbols for the Cinnamon desktop
+Changes: 
+ cinnamon (2.0.11-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 46902dcc1f00d2383e952ce4404024dc1c5d6370 1558 cinnamon_2.0.11-jessie.dsc
+ 52ed6b436806ea18c1cef7223108849bab9c9ef5 2622084 cinnamon_2.0.11-jessie.tar.gz
+ 7f0f6290d6ec63e488a87684c59ed9c338eea741 754122 cinnamon_2.0.11-jessie_amd64.deb
+ 5c39a0a74f5efc58ffa249f62e3e512efd8bc0ad 888170 cinnamon-dbg_2.0.11-jessie_amd64.deb
+ f415e97bf9865de7342f613ea3b389c25bc2de65 1713950 cinnamon-common_2.0.11-jessie_all.deb
+Checksums-Sha256: 
+ 39a0ad1b4c6d4399b3cfc0b66ec89f58d5f940f164301936f16566eae3d43100 1558 cinnamon_2.0.11-jessie.dsc
+ 0356460e6e5e2c939c66c1ad2c43d1ea0a9fe8cd143121e9e2283056ed3f7817 2622084 cinnamon_2.0.11-jessie.tar.gz
+ 1b3fb1b8b49077f9d60cdc9f22a9919b4f9bf8c39fee690b9571934cfc268412 754122 cinnamon_2.0.11-jessie_amd64.deb
+ 7fb9eecdb813e353c073bb792df17acbd6930d8d388ef1cd4e5ac25a46609a8d 888170 cinnamon-dbg_2.0.11-jessie_amd64.deb
+ fe7d41379ae0934e4e8b10b814467559496d59f596dede513864dca5e290b30a 1713950 cinnamon-common_2.0.11-jessie_all.deb
+Files: 
+ c82d3d136ec586c201c8e98624c09b1d 1558 gnome optional cinnamon_2.0.11-jessie.dsc
+ 9e372556c64dc753e26c9cfb6df4c3cf 2622084 gnome optional cinnamon_2.0.11-jessie.tar.gz
+ 1c094067c201744adfaa6880d860bc94 754122 gnome optional cinnamon_2.0.11-jessie_amd64.deb
+ c7cd840f0d0510c99cb7ca3ae40e4d6e 888170 debug extra cinnamon-dbg_2.0.11-jessie_amd64.deb
+ 11fc1508632905b7b91bb273ef2bbc0a 1713950 gnome optional cinnamon-common_2.0.11-jessie_all.deb

@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:11:39 +0100
+Source: cjs
+Binary: cjs libcjs0c libcjs-dev
+Architecture: source amd64
+Version: 2.0.0-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cjs        - Mozilla-based javascript bindings for the GNOME platform
+ libcjs-dev - Mozilla-based javascript bindings for the GNOME platform
+ libcjs0c   - Mozilla-based javascript bindings for the GNOME platform
+Changes: 
+ cjs (2.0.0-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 5dfe907f3bfd7274bee08a8e17d59d8a139d0859 833 cjs_2.0.0-jessie.dsc
+ 2f63cd43aec8125ecd05196fdb192247ca573b69 357458 cjs_2.0.0-jessie.tar.gz
+ 045124daf4ed5e803ba36eb156ef35c6873472b2 10582 cjs_2.0.0-jessie_amd64.deb
+ 66d75fe40557636769ea7cc0410e9a9081a8710c 232228 libcjs0c_2.0.0-jessie_amd64.deb
+ a521fa826b4e44f2c01b512e3a14b44dd57b2a46 21614 libcjs-dev_2.0.0-jessie_amd64.deb
+Checksums-Sha256: 
+ 22cb3e7cd876f65f6434c5596009351f2ef699c896c0ac1b940f12577fabb6fb 833 cjs_2.0.0-jessie.dsc
+ 73cff8be45522a0fbe954fb671bb427ccd09591b294129fb2f693213814de198 357458 cjs_2.0.0-jessie.tar.gz
+ 07dfb0d75d160b9a9437700e2a9236f28d8aeeccb73d317dd888e3d20e589a72 10582 cjs_2.0.0-jessie_amd64.deb
+ e1054be0fc6475f5975a4d7f2af1d925f99a403c17c126f29783567144040796 232228 libcjs0c_2.0.0-jessie_amd64.deb
+ e087179e684b572b25d5af3d7bad0952078ac08e10b112f8d4fa6dc1a0faff6d 21614 libcjs-dev_2.0.0-jessie_amd64.deb
+Files: 
+ a281dcf0c87f255cbd1804f4f0122b73 833 interpreters optional cjs_2.0.0-jessie.dsc
+ 1a6347681b9d5e9044ba0b278eb90b27 357458 interpreters optional cjs_2.0.0-jessie.tar.gz
+ 775c3d9fa840a35f1e91ff1bdcd18784 10582 interpreters optional cjs_2.0.0-jessie_amd64.deb
+ 3f072353b059258fc34ba0440ed794c7 232228 libs optional libcjs0c_2.0.0-jessie_amd64.deb
+ fa17fee35ab8cd01fe9faff04d8bfa0f 21614 libdevel optional libcjs-dev_2.0.0-jessie_amd64.deb

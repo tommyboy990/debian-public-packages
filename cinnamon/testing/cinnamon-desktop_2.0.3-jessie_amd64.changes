@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:06:14 +0100
+Source: cinnamon-desktop
+Binary: cinnamon-desktop-data libcinnamon-desktop0 libcinnamon-desktop-dev gir1.2-cinnamondesktop-3.0
+Architecture: source all amd64
+Version: 2.0.3-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-desktop-data - Common files for Cinnamon desktop apps
+ gir1.2-cinnamondesktop-3.0 - Introspection data for CinnamonDesktop
+ libcinnamon-desktop-dev - Utility library for loading .desktop files - development files
+ libcinnamon-desktop0 - Utility library for loading .desktop files - runtime files
+Changes: 
+ cinnamon-desktop (2.0.3-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ d0bff9dbb4ffc9a7564c924e057a00b33718b230 1323 cinnamon-desktop_2.0.3-jessie.dsc
+ 59cd347110c04c6111702c8a5ed61256a153917b 568085 cinnamon-desktop_2.0.3-jessie.tar.gz
+ 29fd986d5f2299d3071269b9822028d18f482d61 192380 cinnamon-desktop-data_2.0.3-jessie_all.deb
+ 9bce84b0f1d2f5f282f88271fe0b731be5498dde 132804 libcinnamon-desktop0_2.0.3-jessie_amd64.deb
+ 9cc788e3d38e07f0f1e8ca3f27e1d46f07d39e43 87316 libcinnamon-desktop-dev_2.0.3-jessie_amd64.deb
+ 2fafa83f1ec39a5eda8fa5736734242f91a1232a 75250 gir1.2-cinnamondesktop-3.0_2.0.3-jessie_amd64.deb
+Checksums-Sha256: 
+ ddb4101ea018c5a5529ddfcff8bf69209ad62892423ff1961a6f094726229d88 1323 cinnamon-desktop_2.0.3-jessie.dsc
+ 5f9c8d37715725c34975fd63b5d276f24a69ef0633118e509c494bf9cec2c8a8 568085 cinnamon-desktop_2.0.3-jessie.tar.gz
+ 62657cbf0d33bd6300f8058b47f34ac227a4744fb06468d202526226d8cfa5a9 192380 cinnamon-desktop-data_2.0.3-jessie_all.deb
+ 403fdd459e03717710d59587a41598a0b3066baf66bca129f34cf38a8b45e95d 132804 libcinnamon-desktop0_2.0.3-jessie_amd64.deb
+ 2f66f6514be69bd369e16637bd6a418b9dc8225e766b0e5f3c7174b245e46453 87316 libcinnamon-desktop-dev_2.0.3-jessie_amd64.deb
+ 2224bdfb52498b3d4e230d2b9ef7dd60bf7f3396b891ccf9b254569462e2d715 75250 gir1.2-cinnamondesktop-3.0_2.0.3-jessie_amd64.deb
+Files: 
+ 617cd93a1785443390f7157e758fb688 1323 x11 optional cinnamon-desktop_2.0.3-jessie.dsc
+ 66c8a64923937a8f001991f711c3a314 568085 x11 optional cinnamon-desktop_2.0.3-jessie.tar.gz
+ 0137965134a4a1ac0ce2b27ac112f26e 192380 x11 optional cinnamon-desktop-data_2.0.3-jessie_all.deb
+ 9aaf5eeba17002e42cf873d2c32b1fa6 132804 libs optional libcinnamon-desktop0_2.0.3-jessie_amd64.deb
+ a6dd6073bb476ca5dede5b27ac6ab928 87316 libdevel optional libcinnamon-desktop-dev_2.0.3-jessie_amd64.deb
+ d759814ceda497cb5b2d706a8a13c97d 75250 introspection optional gir1.2-cinnamondesktop-3.0_2.0.3-jessie_amd64.deb

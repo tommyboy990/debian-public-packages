@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:19:41 +0100
+Source: cinnamon-session
+Binary: cinnamon-session cinnamon-session-common
+Architecture: source all amd64
+Version: 2.0.5-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-session - Cinnamon Session Manager - Minimal runtime
+ cinnamon-session-common - Cinnamon Session Manager - common files
+Changes: 
+ cinnamon-session (2.0.5-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 862a8dc950fadad41236de851113cadfb767b813 1059 cinnamon-session_2.0.5-jessie.dsc
+ 93acea56a3602071ff3cdcf0e49ebb19ac624e30 904713 cinnamon-session_2.0.5-jessie.tar.gz
+ 6a96ddb233e367d162b4782bfef57619c01332d6 141062 cinnamon-session-common_2.0.5-jessie_all.deb
+ 54c33b891d7a5f4f99cdca07543dee9018a1317e 102212 cinnamon-session_2.0.5-jessie_amd64.deb
+Checksums-Sha256: 
+ 99497d9567b2e2c6a83df73b52d77da25e1c685794f46598d6c873cc3b0447bc 1059 cinnamon-session_2.0.5-jessie.dsc
+ d2b60ab2f5b9c88b681e594d2401fa56fb5d7d8dea2190979c2af4d478590b63 904713 cinnamon-session_2.0.5-jessie.tar.gz
+ 0dc7eb94ef7b1baebb97209b6f87b2add49be30d90c45da4d5b020e87446a73a 141062 cinnamon-session-common_2.0.5-jessie_all.deb
+ ae89bdbf559592d640a370c20017ca4e34c463bb66cce6f6d3c0c0db4fd489a2 102212 cinnamon-session_2.0.5-jessie_amd64.deb
+Files: 
+ 087dbd0b0d16a7203355c648b408906d 1059 gnome optional cinnamon-session_2.0.5-jessie.dsc
+ 329a4c6d87df89870c08cbb081bd6f4f 904713 gnome optional cinnamon-session_2.0.5-jessie.tar.gz
+ 611b21e995f214c66fb5509bee619a5f 141062 gnome optional cinnamon-session-common_2.0.5-jessie_all.deb
+ bb88a87014619811ec4e4cb2e60ac5d7 102212 gnome optional cinnamon-session_2.0.5-jessie_amd64.deb

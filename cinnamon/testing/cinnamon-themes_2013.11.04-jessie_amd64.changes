@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:38:40 +0100
+Source: cinnamon-themes
+Binary: cinnamon-themes
+Architecture: source all
+Version: 2013.11.04-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-themes - Cinnamon themes
+Changes: 
+ cinnamon-themes (2013.11.04-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ bad8736c472bb142b581d69042da5d2ee87e5f15 621 cinnamon-themes_2013.11.04-jessie.dsc
+ 5b59d7512a8142b9ec8e322d255793ce07eff192 415820 cinnamon-themes_2013.11.04-jessie.tar.gz
+ 6e48ed5e6f731c31b2ca5db1531704a23b048c42 186568 cinnamon-themes_2013.11.04-jessie_all.deb
+Checksums-Sha256: 
+ c2304ea6a25f402a053b7d71e8c30e022af4b3c5ae26736c6390541e6841e232 621 cinnamon-themes_2013.11.04-jessie.dsc
+ 20f5da0e797ac37f042bafd35e9a31606823c732c840400580f6953fe677ed6a 415820 cinnamon-themes_2013.11.04-jessie.tar.gz
+ 6c401963d951fa31620620f9d7368f43c07d38524e9ab25676df98e02a88a798 186568 cinnamon-themes_2013.11.04-jessie_all.deb
+Files: 
+ ed485fe0e52b843513d7590fe4666ae1 621 universe/gnome optional cinnamon-themes_2013.11.04-jessie.dsc
+ 8c991a7f99cd764431bf32fc4809e755 415820 universe/gnome optional cinnamon-themes_2013.11.04-jessie.tar.gz
+ 847e4df3c01e6b4dd44ae99d82802797 186568 universe/gnome optional cinnamon-themes_2013.11.04-jessie_all.deb

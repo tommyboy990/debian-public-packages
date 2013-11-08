@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:04:29 +0100
+Source: cinnamon-translations
+Binary: cinnamon-translations
+Architecture: source all
+Version: 2.0.2-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-translations - Translation files for the Cinnamon desktop
+Changes: 
+ cinnamon-translations (2.0.2-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 307162893adfcefae87eefec58c3ffb7e4beaf4c 634 cinnamon-translations_2.0.2-jessie.dsc
+ e263de3f5a2ad865ca6996755c91c0b0cdc28351 29329358 cinnamon-translations_2.0.2-jessie.tar.gz
+ ad983cb366f59a78fab11ff23a2583d7a67c5232 3380440 cinnamon-translations_2.0.2-jessie_all.deb
+Checksums-Sha256: 
+ 23a8d25a46741f6ebe7f3521b57970ae728293dcde7412b9b10fff540bc22489 634 cinnamon-translations_2.0.2-jessie.dsc
+ 8677295e9c55275a0e875cb9881d80332a66c5a2d6e2231fd5ac3c4ec16b16cc 29329358 cinnamon-translations_2.0.2-jessie.tar.gz
+ 016f8e77815ffeb288020b8521fbdf083a8e8e53e2730a495ad195d0c6178b51 3380440 cinnamon-translations_2.0.2-jessie_all.deb
+Files: 
+ f8591f85373e86a5da4355a0512e7daa 634 admin optional cinnamon-translations_2.0.2-jessie.dsc
+ 4dcc7471f2deae5025dc701b306482bd 29329358 admin optional cinnamon-translations_2.0.2-jessie.tar.gz
+ 714a26215425da9219b878993ce26797 3380440 admin optional cinnamon-translations_2.0.2-jessie_all.deb

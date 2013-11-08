@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:37:15 +0100
+Source: cinnamon-screensaver
+Binary: cinnamon-screensaver
+Architecture: source amd64
+Version: 2.0.3-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-screensaver - Cinnamon screen saver and locker
+Changes: 
+ cinnamon-screensaver (2.0.3-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ be18d221765a81ee5adea265735fe22bf1a6fefa 1088 cinnamon-screensaver_2.0.3-jessie.dsc
+ 7900e44753c80213d91004056cde2b78b0329870 1297309 cinnamon-screensaver_2.0.3-jessie.tar.gz
+ 425450bf30e92000793a3a98c5cd3c2db57836ca 79518 cinnamon-screensaver_2.0.3-jessie_amd64.deb
+Checksums-Sha256: 
+ fa2c8a9627b2426f3a850eceedad91e8088a7b44f7f24dc3e5e74336e69f1840 1088 cinnamon-screensaver_2.0.3-jessie.dsc
+ ed5a275c0b438f5d48f16adb9d0d695d6b50860d26fbd6dd71f2b6c964b0e83f 1297309 cinnamon-screensaver_2.0.3-jessie.tar.gz
+ fba56a55ae89eb8915c1ff290dc1d817233f61cf800e0de7426ed78c22517e30 79518 cinnamon-screensaver_2.0.3-jessie_amd64.deb
+Files: 
+ 615bf60da4a31c64843484469dee19f0 1088 gnome optional cinnamon-screensaver_2.0.3-jessie.dsc
+ 5699dd3356f139edaeaf03f571b3e5e1 1297309 gnome optional cinnamon-screensaver_2.0.3-jessie.tar.gz
+ 4e6ccf7b9121002896c2ea3dfc83e364 79518 gnome optional cinnamon-screensaver_2.0.3-jessie_amd64.deb
+Original-Maintainer: Guilherme de S. Pastore <gpastore@debian.org>

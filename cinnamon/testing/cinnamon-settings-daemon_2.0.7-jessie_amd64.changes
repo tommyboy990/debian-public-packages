@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:16:13 +0100
+Source: cinnamon-settings-daemon
+Binary: cinnamon-settings-daemon cinnamon-settings-daemon-dev
+Architecture: source amd64
+Version: 2.0.7-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-settings-daemon - daemon handling the Cinnamon session settings
+ cinnamon-settings-daemon-dev - Headers for building applications communicating with cinnamon-set
+Changes: 
+ cinnamon-settings-daemon (2.0.7-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 6313dc2ba9cc19e37ae6f6be9290b3ea3a151ad2 1394 cinnamon-settings-daemon_2.0.7-jessie.dsc
+ ebf8d47c58fe1aa768a1039165584f8cc754c50f 2961557 cinnamon-settings-daemon_2.0.7-jessie.tar.gz
+ 00976e4a3954c2a65df1113a2d8c66ef56850259 958476 cinnamon-settings-daemon_2.0.7-jessie_amd64.deb
+ 7c08a506fc2487da9ab79ae4b7518c53ed666aa3 36208 cinnamon-settings-daemon-dev_2.0.7-jessie_amd64.deb
+Checksums-Sha256: 
+ 92b010fe43124a18d58f50c7cb697e126e03b980003883c9c5c760bb9a263e4b 1394 cinnamon-settings-daemon_2.0.7-jessie.dsc
+ cd5af0420871ff040412b54ca22075026b261ba48de9a19549bc89a6e7dd86fb 2961557 cinnamon-settings-daemon_2.0.7-jessie.tar.gz
+ 4f358c6450b0746958664da4a48aaf6bbd52f9eab370fd9405bd56b2a38c28ea 958476 cinnamon-settings-daemon_2.0.7-jessie_amd64.deb
+ bfe7cc45c967ccf13d17920ab911f9da9fd639d51478c6f8b5df51130dd16589 36208 cinnamon-settings-daemon-dev_2.0.7-jessie_amd64.deb
+Files: 
+ 79f15a09d91f18669e8aeca54bc86039 1394 gnome optional cinnamon-settings-daemon_2.0.7-jessie.dsc
+ 1b43a4cb839a2865d2c21a3486ba70a1 2961557 gnome optional cinnamon-settings-daemon_2.0.7-jessie.tar.gz
+ d51e5e218e950fee54989d4352a6b12b 958476 gnome optional cinnamon-settings-daemon_2.0.7-jessie_amd64.deb
+ 9153c739de90970c637c704fc083c8f1 36208 gnome optional cinnamon-settings-daemon-dev_2.0.7-jessie_amd64.deb

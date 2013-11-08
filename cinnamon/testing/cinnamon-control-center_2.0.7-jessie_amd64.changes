@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:25:38 +0100
+Source: cinnamon-control-center
+Binary: cinnamon-control-center cinnamon-control-center-data libcinnamon-control-center-dev libcinnamon-control-center1
+Architecture: source all amd64
+Version: 2.0.7-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-control-center - utilities to configure the Cinnamon desktop
+ cinnamon-control-center-data - configuration applets for Cinnamon - data files
+ libcinnamon-control-center-dev - utilities to configure the Cinnamon desktop
+ libcinnamon-control-center1 - utilities to configure the Cinnamon desktop
+Changes: 
+ cinnamon-control-center (2.0.7-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 4fea4674e94e995d2437bc1becdf8faa43565372 1907 cinnamon-control-center_2.0.7-jessie.dsc
+ 0a8b9cdd427eeb7eb5effab92c98c0d242c930ec 4767637 cinnamon-control-center_2.0.7-jessie.tar.gz
+ 8075d813f3c22967187f5be302c4e8a285cf8494 1611294 cinnamon-control-center-data_2.0.7-jessie_all.deb
+ b68a40393701ab537710b207e03b0c4a37bef9a0 1618886 cinnamon-control-center_2.0.7-jessie_amd64.deb
+ 84d18767981358747627ef8715af267e439939c8 1411208 libcinnamon-control-center-dev_2.0.7-jessie_amd64.deb
+ 4a16fb1e5b5d09a4bef47dedd8c6fead49030b66 1416916 libcinnamon-control-center1_2.0.7-jessie_amd64.deb
+Checksums-Sha256: 
+ 10f65f4f8f22997ab1b8ef40a4f344ab638adf7beb7ef0ce5ae998eecad4979c 1907 cinnamon-control-center_2.0.7-jessie.dsc
+ 35b144e9863a218f83b3db3d57dfe025d391a0989e21fadfeb284484a5949808 4767637 cinnamon-control-center_2.0.7-jessie.tar.gz
+ 20f2072b7806e205a437f5aa3022cc1a5c18fef6e49ab9ac5be744b4a4716ef3 1611294 cinnamon-control-center-data_2.0.7-jessie_all.deb
+ dbd1e8c8e8322908b0f37bbf7a40b74b325ad9093ed7d024ac0dfa3b9962016b 1618886 cinnamon-control-center_2.0.7-jessie_amd64.deb
+ d236a6bc5947e9b25ce9dd0ba43db56e51268c46262ae99bc95d124028ef6103 1411208 libcinnamon-control-center-dev_2.0.7-jessie_amd64.deb
+ ac032401dc07fb554659528df0c4bacbcfe12e0d0af729956bbca2cac685fd0b 1416916 libcinnamon-control-center1_2.0.7-jessie_amd64.deb
+Files: 
+ 64c285f305f27ebcc295473aebd6dfa0 1907 gnome optional cinnamon-control-center_2.0.7-jessie.dsc
+ 8dadfe25e04eee6a8b533e00754a3f31 4767637 gnome optional cinnamon-control-center_2.0.7-jessie.tar.gz
+ b0ddf4aba1ee57a7b0f82f512289e42d 1611294 gnome optional cinnamon-control-center-data_2.0.7-jessie_all.deb
+ b0df5fb965c2f18e398626e0bf37dbd3 1618886 gnome optional cinnamon-control-center_2.0.7-jessie_amd64.deb
+ 683420f8f493ffc11642d483b7518714 1411208 libdevel optional libcinnamon-control-center-dev_2.0.7-jessie_amd64.deb
+ ea7e9d0f047850864f3690ad0ec2b3ed 1416916 libs optional libcinnamon-control-center1_2.0.7-jessie_amd64.deb
