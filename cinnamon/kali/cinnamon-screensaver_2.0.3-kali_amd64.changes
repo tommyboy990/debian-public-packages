@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 23:03:41 +0100
+Source: cinnamon-screensaver
+Binary: cinnamon-screensaver
+Architecture: source amd64
+Version: 2.0.3-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-screensaver - Cinnamon screen saver and locker
+Changes: 
+ cinnamon-screensaver (2.0.3-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ 1b18022e119b37dea3faa856193fd22743daf2ce 1080 cinnamon-screensaver_2.0.3-kali.dsc
+ 6833cd198f771b0f7e5eb97b89970391d29a642e 1297803 cinnamon-screensaver_2.0.3-kali.tar.gz
+ 37754a034d3b5f61e230df23d1422529b69eac5d 81920 cinnamon-screensaver_2.0.3-kali_amd64.deb
+Checksums-Sha256: 
+ f77f569a1a118e417c2537a21a1d0e1bd7e71aac88c318a2e96bb97a36e10fc6 1080 cinnamon-screensaver_2.0.3-kali.dsc
+ efe51bdb67dd6c1f48d12a70c354493c19b4bb5d1f8377c21046dbc785f7e6c9 1297803 cinnamon-screensaver_2.0.3-kali.tar.gz
+ ca13f4c32c54898558098c09dcc50373316b33bb03f7a6003f7655ffaf35b0b0 81920 cinnamon-screensaver_2.0.3-kali_amd64.deb
+Files: 
+ 86080942ea4a7b1edfb2a7779a064508 1080 gnome optional cinnamon-screensaver_2.0.3-kali.dsc
+ 0e491eeb62471e81e6e277725cdebdbd 1297803 gnome optional cinnamon-screensaver_2.0.3-kali.tar.gz
+ dad08d6349645d77f1f1fec4b3cdcd44 81920 gnome optional cinnamon-screensaver_2.0.3-kali_amd64.deb
+Original-Maintainer: Guilherme de S. Pastore <gpastore@debian.org>

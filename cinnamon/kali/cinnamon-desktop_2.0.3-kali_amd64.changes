@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:42:37 +0100
+Source: cinnamon-desktop
+Binary: cinnamon-desktop-data libcinnamon-desktop0 libcinnamon-desktop-dev gir1.2-cinnamondesktop-3.0
+Architecture: source all amd64
+Version: 2.0.3-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-desktop-data - Common files for Cinnamon desktop apps
+ gir1.2-cinnamondesktop-3.0 - Introspection data for CinnamonDesktop
+ libcinnamon-desktop-dev - Utility library for loading .desktop files - development files
+ libcinnamon-desktop0 - Utility library for loading .desktop files - runtime files
+Changes: 
+ cinnamon-desktop (2.0.3-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ 6bf73a3728be8178c06e58282482f937116b78bb 1309 cinnamon-desktop_2.0.3-kali.dsc
+ 231018ae098f201f09b77a02b30aa9780a755101 7882558 cinnamon-desktop_2.0.3-kali.tar.gz
+ 390b5890cca89673706e0d01f7808e4f5813d241 192414 cinnamon-desktop-data_2.0.3-kali_all.deb
+ 986799967453ccfc97c93ebdd5e3885a75bd1a36 134682 libcinnamon-desktop0_2.0.3-kali_amd64.deb
+ a2b75c300084ab5df9028ae803458505d1d05f8b 86898 libcinnamon-desktop-dev_2.0.3-kali_amd64.deb
+ ea0f45586aadfd803027c1ae737e47ddcf7d2291 75334 gir1.2-cinnamondesktop-3.0_2.0.3-kali_amd64.deb
+Checksums-Sha256: 
+ 21fb826497faa5d80f01f07f4a76bbb3229ffa2c8c702f0f30b75574e881f720 1309 cinnamon-desktop_2.0.3-kali.dsc
+ 6a3aba8ea0316dd8f4d9b0b3da7bd69838c6bf450ae9773e79df65133102faba 7882558 cinnamon-desktop_2.0.3-kali.tar.gz
+ 8676acc80ccefade3c73714d840a1db5a0804b28f0a60d5375338018391a0574 192414 cinnamon-desktop-data_2.0.3-kali_all.deb
+ d85fc02849cab88b12c09ea20aa6ee27aa0922777a0fed4c37d999601367d45c 134682 libcinnamon-desktop0_2.0.3-kali_amd64.deb
+ b80f1ff7c9ad0d702b91e9541058ead165c585dba9bfef996bc4265d53365e9b 86898 libcinnamon-desktop-dev_2.0.3-kali_amd64.deb
+ 0bd8ad83381d8b1d64c12cdeccd4e2f9bb8e30f701052605c0c7411242c28dd7 75334 gir1.2-cinnamondesktop-3.0_2.0.3-kali_amd64.deb
+Files: 
+ 2d0e93d05c01a0c494c12231911b3f97 1309 x11 optional cinnamon-desktop_2.0.3-kali.dsc
+ d2222bd692fc5eb5eef097ad90e9b2d7 7882558 x11 optional cinnamon-desktop_2.0.3-kali.tar.gz
+ 8ab5693b5b5be80b259ef3f3168105d6 192414 x11 optional cinnamon-desktop-data_2.0.3-kali_all.deb
+ 0d29106c4a5d1bbc1e8eefbdaa845a4b 134682 libs optional libcinnamon-desktop0_2.0.3-kali_amd64.deb
+ de0d2dd70726d00b037dc6db4abe6e33 86898 libdevel optional libcinnamon-desktop-dev_2.0.3-kali_amd64.deb
+ 308763979d920429b9fac09df870c734 75334 introspection optional gir1.2-cinnamondesktop-3.0_2.0.3-kali_amd64.deb
