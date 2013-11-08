@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 23:04:59 +0100
+Source: cinnamon-themes
+Binary: cinnamon-themes
+Architecture: source all
+Version: 2013.11.04-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-themes - Cinnamon themes
+Changes: 
+ cinnamon-themes (2013.11.04-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ fd587da89b9cc89b224f8df68f806feb7e4a655b 613 cinnamon-themes_2013.11.04-kali.dsc
+ d149ed491b0b75e095716d655521f06ad0c7a8af 415186 cinnamon-themes_2013.11.04-kali.tar.gz
+ 0395ead62806a3303a44e6390ae28defd28b88bc 186568 cinnamon-themes_2013.11.04-kali_all.deb
+Checksums-Sha256: 
+ 208a6a20134389110fcb5c0595fc9c30df0f0ca00f2ccf84f01fc0ec558b76f7 613 cinnamon-themes_2013.11.04-kali.dsc
+ ec97901d3726064c92b50747bc2427d1482ca53158a4b75e671a52823266c53c 415186 cinnamon-themes_2013.11.04-kali.tar.gz
+ 7c0314556b2bb92f4e1711a9cb3215a6253d9ebc233f241d2eb991f420be458a 186568 cinnamon-themes_2013.11.04-kali_all.deb
+Files: 
+ 7c04d508a22fe8dbbf6863022f0ffc5c 613 universe/gnome optional cinnamon-themes_2013.11.04-kali.dsc
+ e39481dbd54d5e621009fcbab8bd311c 415186 universe/gnome optional cinnamon-themes_2013.11.04-kali.tar.gz
+ 8a31ea861e606e7d98f299ff8d515718 186568 universe/gnome optional cinnamon-themes_2013.11.04-kali_all.deb
