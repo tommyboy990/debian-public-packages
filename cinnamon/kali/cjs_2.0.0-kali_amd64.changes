@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:45:35 +0100
+Source: cjs
+Binary: cjs libcjs0c libcjs-dev
+Architecture: source amd64
+Version: 2.0.0-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cjs        - Mozilla-based javascript bindings for the GNOME platform
+ libcjs-dev - Mozilla-based javascript bindings for the GNOME platform
+ libcjs0c   - Mozilla-based javascript bindings for the GNOME platform
+Changes: 
+ cjs (2.0.0-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ cce483ec6d1d803f0f489a271fc2a42fd04cdddc 819 cjs_2.0.0-kali.dsc
+ 44ca6aa0fea42de4c38fe7b78d85e6e22c58ede1 1295490 cjs_2.0.0-kali.tar.gz
+ 2b682600be517845e359f955c7cd3ad277e18c1e 10626 cjs_2.0.0-kali_amd64.deb
+ d9f327d76852d6cda709d94cc4a066b130a86ac4 235520 libcjs0c_2.0.0-kali_amd64.deb
+ 3584bdc242b535e9959f34e2511fc0e641c31bd8 21546 libcjs-dev_2.0.0-kali_amd64.deb
+Checksums-Sha256: 
+ a30303769a6da0e956e118ed29eafcd651cf02783298745aec9c8c06f9a594ef 819 cjs_2.0.0-kali.dsc
+ cb39058a4f7e6366e483ce4a2f2a4919114d06d54d0bfab7f7ec40528b34ea79 1295490 cjs_2.0.0-kali.tar.gz
+ f4e99a63d3ee031204e5b24ceee6dde8adc3cd60f88ace11736ae543e144299e 10626 cjs_2.0.0-kali_amd64.deb
+ f5126dfa69bbca149b949bb1a15037a9a480fd1533cffc9a3daa64dc9bb23b2b 235520 libcjs0c_2.0.0-kali_amd64.deb
+ bd0913aa1941eb068711dd702d86984f34a6ae5f0f12dedc81bb721f27059be2 21546 libcjs-dev_2.0.0-kali_amd64.deb
+Files: 
+ e34745458d6592bc7cf9060523193b06 819 interpreters optional cjs_2.0.0-kali.dsc
+ d565e0360f44dd828b4cf9ca5db0b3d2 1295490 interpreters optional cjs_2.0.0-kali.tar.gz
+ 96f06f1a6a3b0e2e057d3bf307ba8f85 10626 interpreters optional cjs_2.0.0-kali_amd64.deb
+ 6cf8416735b761182ae05a61ee719198 235520 libs optional libcjs0c_2.0.0-kali_amd64.deb
+ dade67ec41a28a37cb92567fa3b08f33 21546 libdevel optional libcjs-dev_2.0.0-kali_amd64.deb
