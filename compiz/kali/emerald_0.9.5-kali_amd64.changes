@@ -1,0 +1,43 @@
+Format: 1.8
+Date: Fri, 08 Nov 2013 01:40:12 +0100
+Source: emerald
+Binary: emerald libemeraldengine0 libemeraldengine-dev
+Architecture: source amd64
+Version: 0.9.5-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ emerald    - Decorator for compiz-fusion
+ libemeraldengine-dev - Development files for emerald engines
+ libemeraldengine0 - Decoration engines for compiz-fusion
+Changes: 
+ emerald (0.9.5-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+ .
+   * most ubuntu patches removed
+ .
+   * patched to remove all unity references, session migration etc
+ .
+   * further patched to remove bug while compiling for kali
+Checksums-Sha1: 
+ 67557d38d851ed604b888600620d365ea412e46c 1018 emerald_0.9.5-kali.dsc
+ 8e9367cbf6b9c33c6d6765c336f6a2e8b32bc030 308588 emerald_0.9.5-kali.tar.gz
+ c25f83bf9cc0e4b79f8665d67063e1f5ec551db2 267824 emerald_0.9.5-kali_amd64.deb
+ 7ece91775ed73f91d1828b2f0107085d3caa8e55 91384 libemeraldengine0_0.9.5-kali_amd64.deb
+ 6b231de2a0b8f9983d211c2a9e8e96ae28308194 93016 libemeraldengine-dev_0.9.5-kali_amd64.deb
+Checksums-Sha256: 
+ 72fa6f36870f88fb1589e16bdf65d5a8e2f3cea386bab5787ab329ad95b36d61 1018 emerald_0.9.5-kali.dsc
+ b88e0a8185ffa38627cd6dcaabb199ca0eabf1f36c7e3aa013a6d8377d863148 308588 emerald_0.9.5-kali.tar.gz
+ ddd2d49d9ff32988994cd9333b29589032f248912b2eeba883000370531f2348 267824 emerald_0.9.5-kali_amd64.deb
+ 6c6c8f305ccf2aefe10fda332a65846a5d34f9eee1dffc28875d3e9206b95f50 91384 libemeraldengine0_0.9.5-kali_amd64.deb
+ fa4569152cf0a18d0bca6908b4efc0ce032533f7031e0b2dbef134466eb00d6f 93016 libemeraldengine-dev_0.9.5-kali_amd64.deb
+Files: 
+ c36266c47e7e276a3b673fcde89dac08 1018 x11 optional emerald_0.9.5-kali.dsc
+ cc9a1f47fa75ac3c667fb17d4b5c20d6 308588 x11 optional emerald_0.9.5-kali.tar.gz
+ f0c018da3abbc0be488e7f5709147d0c 267824 x11 optional emerald_0.9.5-kali_amd64.deb
+ b45f8ce7d3918f5d0c075c3e33d63d2e 91384 libs optional libemeraldengine0_0.9.5-kali_amd64.deb
+ 19e7c790b9d458fc9627939ee21cc761 93016 libdevel optional libemeraldengine-dev_0.9.5-kali_amd64.deb
+Original-Maintainer: Nicholas Thomas <lupine@beryl-project.org>

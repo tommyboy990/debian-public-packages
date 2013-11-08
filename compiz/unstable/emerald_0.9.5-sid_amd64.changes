@@ -1,0 +1,43 @@
+Format: 1.8
+Date: Fri, 08 Nov 2013 01:03:12 +0100
+Source: emerald
+Binary: emerald libemeraldengine0 libemeraldengine-dev
+Architecture: source amd64
+Version: 0.9.5-sid
+Distribution: unstable
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ emerald    - Decorator for compiz-fusion
+ libemeraldengine-dev - Development files for emerald engines
+ libemeraldengine0 - Decoration engines for compiz-fusion
+Changes: 
+ emerald (0.9.5-sid) unstable; urgency=medium
+ .
+   * recompiled for sid by me
+ .
+   * most ubuntu patches removed
+ .
+   * patched to remove all unity references, session migration etc
+ .
+   * further patched to remove bug while compiling for kali
+Checksums-Sha1: 
+ d4045ba3cbab92a7dfb03085aa1f50cdb5fd1716 1014 emerald_0.9.5-sid.dsc
+ 510541cb8906776b8b025d877636ad82256228a2 308625 emerald_0.9.5-sid.tar.gz
+ 6fac5c7ec4e75add805e0f3fd6642975940486aa 206808 emerald_0.9.5-sid_amd64.deb
+ 3d3f35a92dfee71a4fd83c10779ae038c6ca3f40 63928 libemeraldengine0_0.9.5-sid_amd64.deb
+ 052fb3c8d55125d411b524f30597b7e584ce80fb 63428 libemeraldengine-dev_0.9.5-sid_amd64.deb
+Checksums-Sha256: 
+ 6f8beb558348bbb3d4a3f3527a4e05e5ea2830c2f29dd6698550d333a7a9d418 1014 emerald_0.9.5-sid.dsc
+ 665aa54ad34bde8214a3c3127785aab27f464cb2d0bfb0076fa0dda96283fd2b 308625 emerald_0.9.5-sid.tar.gz
+ faac4c5cb91fc09e262911ba47d535451e466ba6917c0d4c1539321e1c5bb169 206808 emerald_0.9.5-sid_amd64.deb
+ 30d01aa440f989fec836e590d64cf9dac646209ec7c97cd6de9e8fe104da9180 63928 libemeraldengine0_0.9.5-sid_amd64.deb
+ 31dca0500a473ec1ce467a51f98f8489dd8625cf73d25cba21d44f6737bb75d2 63428 libemeraldengine-dev_0.9.5-sid_amd64.deb
+Files: 
+ a845b533475b78a52ce5d71622554aed 1014 x11 optional emerald_0.9.5-sid.dsc
+ f3f2ff0909bd4c53735ebf6ea5e408dd 308625 x11 optional emerald_0.9.5-sid.tar.gz
+ 8af1bf79fada82cc7391cc80c62ec559 206808 x11 optional emerald_0.9.5-sid_amd64.deb
+ 275e616ac1de8eeec4cabd46e422a682 63928 libs optional libemeraldengine0_0.9.5-sid_amd64.deb
+ de5de60ce074724e91c5dcd0c40776ca 63428 libdevel optional libemeraldengine-dev_0.9.5-sid_amd64.deb
+Original-Maintainer: Nicholas Thomas <lupine@beryl-project.org>

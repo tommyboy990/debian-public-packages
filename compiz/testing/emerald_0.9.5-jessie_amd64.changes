@@ -1,0 +1,43 @@
+Format: 1.8
+Date: Fri, 08 Nov 2013 00:38:49 +0100
+Source: emerald
+Binary: emerald libemeraldengine0 libemeraldengine-dev
+Architecture: source amd64
+Version: 0.9.5-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ emerald    - Decorator for compiz-fusion
+ libemeraldengine-dev - Development files for emerald engines
+ libemeraldengine0 - Decoration engines for compiz-fusion
+Changes: 
+ emerald (0.9.5-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+ .
+   * most ubuntu patches removed
+ .
+   * patched to remove all unity references, session migration etc
+ .
+   * further patched to remove bug while compiling for kali
+Checksums-Sha1: 
+ ee3dfb38f41ea762782fbef2dbd6a9f4daac1389 1026 emerald_0.9.5-jessie.dsc
+ db5540a7562ec9493e7b1b5beff1d7941ea94424 308632 emerald_0.9.5-jessie.tar.gz
+ 91fa6d1d3652db5da1860e5c45596805aa94664e 266068 emerald_0.9.5-jessie_amd64.deb
+ 2dba4a8b93a9b2e055b86af570d65155ca1a085f 89254 libemeraldengine0_0.9.5-jessie_amd64.deb
+ f51642f8b2935dd4e3de9e3fd1c7254e75d399a4 93248 libemeraldengine-dev_0.9.5-jessie_amd64.deb
+Checksums-Sha256: 
+ dba0c11476a993f879dc43319f5cac82ca71666b99ecd0ad7f1afdadca325ebc 1026 emerald_0.9.5-jessie.dsc
+ 4286f8a0e9ec6757a4312dbb6286897e3627f4d8b377cb1a4a921a9e413d163c 308632 emerald_0.9.5-jessie.tar.gz
+ c5ecd491567ba26d3567c00eaec41fa434cc82ddf5b396080b7025f44aedf0ff 266068 emerald_0.9.5-jessie_amd64.deb
+ 1e57ec177ed2d39616e1bc691a2c88aaa28c60fa477dbcdc74b723323ef4bdda 89254 libemeraldengine0_0.9.5-jessie_amd64.deb
+ 66ef6d29e399cee75861c2f7d79b3f34fb1574a0e5627a41d0681029e1e033d5 93248 libemeraldengine-dev_0.9.5-jessie_amd64.deb
+Files: 
+ b085a1184313ddc0dbfe97fe98ff2d6c 1026 x11 optional emerald_0.9.5-jessie.dsc
+ 59074ba014be6a658285a5037bd0cbfa 308632 x11 optional emerald_0.9.5-jessie.tar.gz
+ ec009517be63be0ec7633e96bd68fb36 266068 x11 optional emerald_0.9.5-jessie_amd64.deb
+ 55a9673e45b568889dadfc8f7c81d375 89254 libs optional libemeraldengine0_0.9.5-jessie_amd64.deb
+ bc3a8cd78710ff1fe20aec3845e7211b 93248 libdevel optional libemeraldengine-dev_0.9.5-jessie_amd64.deb
+Original-Maintainer: Nicholas Thomas <lupine@beryl-project.org>
