@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:43:42 +0100
+Source: nemo-media-columns
+Binary: nemo-media-columns
+Architecture: source all
+Version: 2.0.0-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-media-columns - Nemo Extension
+Changes: 
+ nemo-media-columns (2.0.0-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 53001d8ce1cd21b9450d9c03195402e988400ed0 619 nemo-media-columns_2.0.0-jessie.dsc
+ 04807596534f970ee0fea20b1237769f6ba1597e 11359 nemo-media-columns_2.0.0-jessie.tar.gz
+ eb75218717538f36e16560185904ea9e97f6f80d 4958 nemo-media-columns_2.0.0-jessie_all.deb
+Checksums-Sha256: 
+ 11a46856275f66fc2ffbc650ba5c8edeb77fff2c9f45e2262a57c311dbf6e843 619 nemo-media-columns_2.0.0-jessie.dsc
+ f9988ceb74c7c23979313ead06cd7d4def28669231dc0773f6812d0da8c6a7ef 11359 nemo-media-columns_2.0.0-jessie.tar.gz
+ acae483f3f5eecfd6ecc2bf70606c2f47f3a55e1703412def89334258cf5c040 4958 nemo-media-columns_2.0.0-jessie_all.deb
+Files: 
+ 03156922f00d750cdaa055a370a9d125 619 gnome extra nemo-media-columns_2.0.0-jessie.dsc
+ 031a808d41c963a36cc81c07725d5bd0 11359 gnome extra nemo-media-columns_2.0.0-jessie.tar.gz
+ aad5446d8280ec5257fe439881727f35 4958 gnome extra nemo-media-columns_2.0.0-jessie_all.deb

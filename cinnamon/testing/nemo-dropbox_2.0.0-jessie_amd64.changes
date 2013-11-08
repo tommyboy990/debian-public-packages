@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:39:47 +0100
+Source: nemo-dropbox
+Binary: nemo-dropbox
+Architecture: source amd64
+Version: 2.0.0-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-dropbox - Dropbox integration for Nemo
+Changes: 
+ nemo-dropbox (2.0.0-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 44b4ad03401ea4b55d482212bc227aa25c87e1a3 787 nemo-dropbox_2.0.0-jessie.dsc
+ 2666d0a67f8664ce95e2f5a6c24ee0b5d5cbedf9 531470 nemo-dropbox_2.0.0-jessie.tar.gz
+ a360379b333717e394fb30369527fb190caee6cb 98780 nemo-dropbox_2.0.0-jessie_amd64.deb
+Checksums-Sha256: 
+ e59b99bd7beaa22d06630343b7640ae8eb25dc0541150c13fda306565e7e0537 787 nemo-dropbox_2.0.0-jessie.dsc
+ 8542739713eca33adaf2b2e962cf1d6b2453d8b90fb09f9328594a8b0f3966c1 531470 nemo-dropbox_2.0.0-jessie.tar.gz
+ 3188ad7fb6d5760ac17129cb8ae0be7157c612a50a0f5a2f66408885617ab98b 98780 nemo-dropbox_2.0.0-jessie_amd64.deb
+Files: 
+ 29ab5e69415bc02cc57d96c1b13f3955 787 non-free/gnome optional nemo-dropbox_2.0.0-jessie.dsc
+ 6d6c8aae4fb603fa7944ea3022c01cfb 531470 non-free/gnome optional nemo-dropbox_2.0.0-jessie.tar.gz
+ dcbe6a6ecfd9ad47910192f127452d1c 98780 non-free/gnome optional nemo-dropbox_2.0.0-jessie_amd64.deb

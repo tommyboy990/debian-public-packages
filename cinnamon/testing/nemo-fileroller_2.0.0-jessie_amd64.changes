@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:41:10 +0100
+Source: nemo-fileroller
+Binary: nemo-fileroller
+Architecture: source amd64
+Version: 2.0.0-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-fileroller - File Roller integration for Nemo
+Changes: 
+ nemo-fileroller (2.0.0-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ e92719c515ecbe5586fe0a45bdf613de8fa944ed 753 nemo-fileroller_2.0.0-jessie.dsc
+ b1663f79cf7b80be68a60db64b02b984b897401d 60064 nemo-fileroller_2.0.0-jessie.tar.gz
+ cac07e44fac1582b3f6aed80e3d4dbabe3b1ea66 7194 nemo-fileroller_2.0.0-jessie_amd64.deb
+Checksums-Sha256: 
+ b9fdfd84f44f5ce7e97b7a8afaa67f0cb9f1c00fd31c0942e071871620601519 753 nemo-fileroller_2.0.0-jessie.dsc
+ e6e948acbc04424706aa03ef19684052f72a7a1b2b02db79777718c8c3adf11d 60064 nemo-fileroller_2.0.0-jessie.tar.gz
+ 163670629fd0455b50cd7dbdadc3e997208825218acd07c494813f08003ec850 7194 nemo-fileroller_2.0.0-jessie_amd64.deb
+Files: 
+ 77340225f4d53cc63afa9250d76573d3 753 non-free/gnome optional nemo-fileroller_2.0.0-jessie.dsc
+ 73630384edf6b9f1bafb624fc00a7908 60064 non-free/gnome optional nemo-fileroller_2.0.0-jessie.tar.gz
+ 92e3323f66ee56b842b0398d269c5a7d 7194 non-free/gnome optional nemo-fileroller_2.0.0-jessie_amd64.deb

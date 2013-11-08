@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:04:08 +0100
+Source: nemo-share
+Binary: nemo-share
+Architecture: source amd64
+Version: 2.0.0-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-share - Nemo extension to share folder using Samba
+Changes: 
+ nemo-share (2.0.0-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 8067237705eb62a55f07095b19d00efa08238d3f 672 nemo-share_2.0.0-jessie.dsc
+ cfe6ac0d4c9276a4b46d699396abd9627a379e98 480957 nemo-share_2.0.0-jessie.tar.gz
+ e2431914a8fcc0816e5757e7c94c386609da0acf 72264 nemo-share_2.0.0-jessie_amd64.deb
+Checksums-Sha256: 
+ c7a0dab3ab1f05b80aca9dd036e838dc3a00eba5b5f03b0c0bfef86e0d647543 672 nemo-share_2.0.0-jessie.dsc
+ 6b79335d87d8b93b4dcfd31a9a52dc172ecad66ed7f05e3acd10b5b62aa1f61c 480957 nemo-share_2.0.0-jessie.tar.gz
+ 5ee2dbad3998a0a0c28aec5ec17b3f4f7594dc9824ab18adb2d4a3dcd3f93371 72264 nemo-share_2.0.0-jessie_amd64.deb
+Files: 
+ 2824db91357f9320c7e66b2cb4cbf311 672 gnome optional nemo-share_2.0.0-jessie.dsc
+ 9bf1fa9879ffca945b2c0b25caa03ef1 480957 gnome optional nemo-share_2.0.0-jessie.tar.gz
+ dc46191f1e84e84f39c901472f99029b 72264 gnome optional nemo-share_2.0.0-jessie_amd64.deb

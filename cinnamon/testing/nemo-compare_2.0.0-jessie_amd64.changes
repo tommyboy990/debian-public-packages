@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:39:19 +0100
+Source: nemo-compare
+Binary: nemo-compare
+Architecture: source all
+Version: 2.0.0-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-compare - Context menu comparison extension for Nemo file manager
+Changes: 
+ nemo-compare (2.0.0-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 517d47b7bd9ebd46aaf01fe50538072b0997c046 756 nemo-compare_2.0.0-jessie.dsc
+ 1a66c58845acbfc9ac69a1e058ddf4627da0f9c8 7754 nemo-compare_2.0.0-jessie.tar.gz
+ 9430088556317c6d41954e58cbcc7d6b1ada31e8 8530 nemo-compare_2.0.0-jessie_all.deb
+Checksums-Sha256: 
+ 642987814ad6afdca68b8a75f81fcc254f5db8e03879341e4a7e9c0527865cc9 756 nemo-compare_2.0.0-jessie.dsc
+ 9497a1117e9dd441b5d8edee9074baffacbe8982eb520f3d582ed675a5e21bdc 7754 nemo-compare_2.0.0-jessie.tar.gz
+ 2909c74127ae22043e8c0f0ad794f65029fef6f86a0823a56bd685950e6a1e46 8530 nemo-compare_2.0.0-jessie_all.deb
+Files: 
+ 002986dbb5b25cb8a7596cba8e5d1ac7 756 gnome extra nemo-compare_2.0.0-jessie.dsc
+ fa22b35ebe3dea2373974f366ee654af 7754 gnome extra nemo-compare_2.0.0-jessie.tar.gz
+ bee7c3945f89047b8aaed32854d819eb 8530 gnome extra nemo-compare_2.0.0-jessie_all.deb

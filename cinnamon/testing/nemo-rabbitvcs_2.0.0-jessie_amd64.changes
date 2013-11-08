@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 21:00:22 +0100
+Source: nemo-rabbitvcs
+Binary: nemo-rabbitvcs
+Architecture: source all
+Version: 2.0.0-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-rabbitvcs - Nemo extension for RabbitVCS
+Changes: 
+ nemo-rabbitvcs (2.0.0-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 756954621f8c525576b44e7780754bfa9d9043fe 663 nemo-rabbitvcs_2.0.0-jessie.dsc
+ 6be4eb013f7ef0d96f9f1c8e7621316523210faa 15477 nemo-rabbitvcs_2.0.0-jessie.tar.gz
+ ca755c749aa31dafd13f754533678b70cfee1944 8818 nemo-rabbitvcs_2.0.0-jessie_all.deb
+Checksums-Sha256: 
+ b8bbd5e42e49eb3625526da386089d4319bb5cd9c9ae867bbf0c11805e0ace48 663 nemo-rabbitvcs_2.0.0-jessie.dsc
+ ca5c3e92112d296fc37340cab68f97288ead45210d6938d5071cb094571cb319 15477 nemo-rabbitvcs_2.0.0-jessie.tar.gz
+ 4c13bac56504c53dd788765e59b8e9cd1cd8e7e69accf3c41712aaef0c6ba8b8 8818 nemo-rabbitvcs_2.0.0-jessie_all.deb
+Files: 
+ ad2d75b45346dcdf0c89e5dcbbeb6aef 663 devel optional nemo-rabbitvcs_2.0.0-jessie.dsc
+ 35df8e2f4bb07ec1f052a4b2f222947d 15477 devel optional nemo-rabbitvcs_2.0.0-jessie.tar.gz
+ 612516f2165603751abdb5ff265e8325 8818 devel optional nemo-rabbitvcs_2.0.0-jessie_all.deb

@@ -1,0 +1,48 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:21:54 +0100
+Source: muffin
+Binary: muffin libmuffin0 muffin-common libmuffin-dev muffin-dbg gir1.2-muffin-3.0
+Architecture: source amd64 all
+Version: 2.0.4-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ gir1.2-muffin-3.0 - GObject introspection data for Muffin
+ libmuffin-dev - Development files for the Muffin window manager
+ libmuffin0 - window manager library from the Muffin window manager
+ muffin     - Muffin window manager
+ muffin-common - shared files for the Muffin window manager
+ muffin-dbg - Debugging symbols for the Muffin window manager
+Changes: 
+ muffin (2.0.4-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 87ffbd166935039aed86bb4ea7ff681fc09bddde 1419 muffin_2.0.4-jessie.dsc
+ ca75005681e7ce6ef7b62c636df1851e7cae796b 2710856 muffin_2.0.4-jessie.tar.gz
+ 6c64dd967053b0028db58bd99fba7da7d961a2e8 29924 muffin_2.0.4-jessie_amd64.deb
+ 40f2af4225fa559f7b8f599eac2a560e3a92b8b0 334298 libmuffin0_2.0.4-jessie_amd64.deb
+ 24c91d8a36bff90a4cd627303c48bab02dc133a6 1444966 muffin-common_2.0.4-jessie_all.deb
+ a6588f98eb132d60affeb6853638738693fa0c44 59166 libmuffin-dev_2.0.4-jessie_amd64.deb
+ 17c811acb0d26a680e158df4435123f839d799fe 1147346 muffin-dbg_2.0.4-jessie_amd64.deb
+ 7d781657c49015147b202d703c2cae45bd9e70a9 20710 gir1.2-muffin-3.0_2.0.4-jessie_amd64.deb
+Checksums-Sha256: 
+ 93a628ba09ff8529835a1e3e79ada3f096ee87450b525ef637f6660acdbda512 1419 muffin_2.0.4-jessie.dsc
+ 2dbaeda94f33f9bb7a9b63d96da574a6355b062d7d049fea08d322539e0368d1 2710856 muffin_2.0.4-jessie.tar.gz
+ 7ae1cc80b7b7ecd7a3f7809c93b09f38c14c6c1976de8d125da4759b462dbc32 29924 muffin_2.0.4-jessie_amd64.deb
+ c8f3b96162e5b8a84bd04888433f3b311780b894ab252b02f81f1f67d247c726 334298 libmuffin0_2.0.4-jessie_amd64.deb
+ e11073bb4b4d3d1564b360ea50421f2658bc0aa17b6967ce8076972f73bf60f6 1444966 muffin-common_2.0.4-jessie_all.deb
+ c625f29030e0c959ba933d800e73566fcc75536e2977144e063d2a77e1c0e6c0 59166 libmuffin-dev_2.0.4-jessie_amd64.deb
+ 37827bb732c14ce35bc9850eb6a23a94570b0860d210a11e9310f0e55d070098 1147346 muffin-dbg_2.0.4-jessie_amd64.deb
+ ee277367aee68c96b0b9a5a6d942ab58016a7bfcad153a4de3f601d091bf9fd2 20710 gir1.2-muffin-3.0_2.0.4-jessie_amd64.deb
+Files: 
+ 3fad931ad71f5034387b32ddacd8086f 1419 x11 optional muffin_2.0.4-jessie.dsc
+ 010dfd875b68547ba32da8765713abf0 2710856 x11 optional muffin_2.0.4-jessie.tar.gz
+ 4d25b8f230d31b7f6065e71362904b92 29924 x11 optional muffin_2.0.4-jessie_amd64.deb
+ 0354f489ba98e760a076d5e000e5c986 334298 libs optional libmuffin0_2.0.4-jessie_amd64.deb
+ be691fd6895ec11d2419d1186a845e34 1444966 misc optional muffin-common_2.0.4-jessie_all.deb
+ 70de146324caba9cda85505e8e111713 59166 libdevel optional libmuffin-dev_2.0.4-jessie_amd64.deb
+ 7067eb7b9473f68ae8861d845a8fae6c 1147346 debug extra muffin-dbg_2.0.4-jessie_amd64.deb
+ 3d01119d44fb7105f0c7a34c02a853d6 20710 libs optional gir1.2-muffin-3.0_2.0.4-jessie_amd64.deb

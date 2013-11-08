@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:44:09 +0100
+Source: nemo-pastebin
+Binary: nemo-pastebin
+Architecture: source all
+Version: 2.0.0-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-pastebin - Nemo extension to send files to a pastebin
+Changes: 
+ nemo-pastebin (2.0.0-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ fb452a460b382c1f58af4f66b3a66296606472a3 648 nemo-pastebin_2.0.0-jessie.dsc
+ 543787038765d8b73b87d1de9ee952ee537a3bdd 29595 nemo-pastebin_2.0.0-jessie.tar.gz
+ eac5329f94008111877366635ce2208ebf45f37c 23922 nemo-pastebin_2.0.0-jessie_all.deb
+Checksums-Sha256: 
+ 06968eed9b352a25d326d0abf8e4e89949148581adaa7a2546aede69fe57d42f 648 nemo-pastebin_2.0.0-jessie.dsc
+ d6657b34f6e4cbeecd90d70c5493f7b69ed55b26f00c8512e21e7c4f780467d8 29595 nemo-pastebin_2.0.0-jessie.tar.gz
+ cd48991fd073bcc3894bc1438a225750242951d4b85adeb11ff70ec11bed3141 23922 nemo-pastebin_2.0.0-jessie_all.deb
+Files: 
+ 23a18de50bbd91d807e554f27f4a9fbb 648 gnome optional nemo-pastebin_2.0.0-jessie.dsc
+ 3d4fb8d777ae995956f796f475bc8df9 29595 gnome optional nemo-pastebin_2.0.0-jessie.tar.gz
+ c2de8e1691bc3c1b6bbd655a89f11594 23922 gnome optional nemo-pastebin_2.0.0-jessie_all.deb

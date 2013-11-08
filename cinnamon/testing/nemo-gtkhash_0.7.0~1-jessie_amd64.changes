@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:42:16 +0100
+Source: nemo-gtkhash
+Binary: nemo-gtkhash
+Architecture: source amd64
+Version: 0.7.0~1-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ nemo-gtkhash - nemo extension for computing checksums and more using gtkhash
+Changes: 
+ nemo-gtkhash (0.7.0~1-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ c05e844778be2bd74b04d20015172246d4a8482c 927 nemo-gtkhash_0.7.0~1-jessie.dsc
+ 53d0124772da08347823cbcbda85949130c379bd 463835 nemo-gtkhash_0.7.0~1-jessie.tar.gz
+ 2df5159969989ca93a719f6b069e50805f521489 38404 nemo-gtkhash_0.7.0~1-jessie_amd64.deb
+Checksums-Sha256: 
+ 680b7141c67ae065d0cd3ea7a34474fcbefa7fcdbadae1819b51e36657f27520 927 nemo-gtkhash_0.7.0~1-jessie.dsc
+ 71840b430df34c0daa79fa23f1dade5bcda8ef82ec7e527dc45e03ab187908c6 463835 nemo-gtkhash_0.7.0~1-jessie.tar.gz
+ ceeb0e45295497c5e3a360718c603a7e1dd7c8a53c157c7f678bbe07bbcee7e7 38404 nemo-gtkhash_0.7.0~1-jessie_amd64.deb
+Files: 
+ 81f685dc34903c20ab345b6bba69c245 927 utils optional nemo-gtkhash_0.7.0~1-jessie.dsc
+ 26df94873d002e788ef4a5ccb8b10b32 463835 utils optional nemo-gtkhash_0.7.0~1-jessie.tar.gz
+ 4e497a89e200a98efcb946d68ae63d2b 38404 utils optional nemo-gtkhash_0.7.0~1-jessie_amd64.deb

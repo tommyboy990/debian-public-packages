@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:58:53 +0100
+Source: nemo-python
+Binary: python-nemo
+Architecture: source amd64
+Version: 2.0.0-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ python-nemo - Python binding for Nemo components
+Changes: 
+ nemo-python (2.0.0-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ 0a63ae7e6cfbb3974bf938d95de856e92eb5d8da 706 nemo-python_2.0.0-jessie.dsc
+ 356081ad0b9497a06098cfb85d82a54c28fe1f9f 242598 nemo-python_2.0.0-jessie.tar.gz
+ 8068f7ba8bfbc41a111d5bf9f5520249ba31f4bf 15906 python-nemo_2.0.0-jessie_amd64.deb
+Checksums-Sha256: 
+ 0ccd916451c4715cf6c65bbfd3ea19e4c86b9fab3cbb38ed22d44b0308ddd291 706 nemo-python_2.0.0-jessie.dsc
+ a07db762ce2da89b99c1cd56096dcd9f086a68130d2fab14bf885ef6065a0139 242598 nemo-python_2.0.0-jessie.tar.gz
+ 348df06b560b99e235361321cddbbf230bf887e840acaf31d57a26d2060084a0 15906 python-nemo_2.0.0-jessie_amd64.deb
+Files: 
+ c9af78c035991f7d60616c9053efb2b8 706 python optional nemo-python_2.0.0-jessie.dsc
+ e255633597e261ed1ddc08bbc5335a5a 242598 python optional nemo-python_2.0.0-jessie.tar.gz
+ 6b10b5fefdbd8c603e6a67e00b812537 15906 python optional python-nemo_2.0.0-jessie_amd64.deb

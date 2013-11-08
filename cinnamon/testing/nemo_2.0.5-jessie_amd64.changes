@@ -1,0 +1,48 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 20:13:59 +0100
+Source: nemo
+Binary: nemo nemo-dbg libnemo-extension1 libnemo-extension-dev gir1.2-nemo-3.0 nemo-data
+Architecture: source amd64 all
+Version: 2.0.5-jessie
+Distribution: testing
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ gir1.2-nemo-3.0 - libraries for nemo components - gir bindings
+ libnemo-extension-dev - libraries for nemo components - development version
+ libnemo-extension1 - libraries for nemo components - runtime version
+ nemo       - file manager and graphical shell for Cinnamon
+ nemo-data  - data files for nemo
+ nemo-dbg   - file manager and graphical shell for Cinnamon - debugging version
+Changes: 
+ nemo (2.0.5-jessie) testing; urgency=medium
+ .
+   * recompiled for jessie by me
+Checksums-Sha1: 
+ b6583dcff072c4bab99b9b0c996b2f97b2fafe41 1373 nemo_2.0.5-jessie.dsc
+ 46667a828b40ad54acdda9575fc785b815a1c775 1363888 nemo_2.0.5-jessie.tar.gz
+ 1e45771922db4ae189cb47c691944c7f5d99b4c4 1159284 nemo_2.0.5-jessie_amd64.deb
+ 7cf24d357170b1c975b1a09af480b9b02d6a1361 3384390 nemo-dbg_2.0.5-jessie_amd64.deb
+ e203ab197a7231793b99f2193992671e8a7014e0 218342 libnemo-extension1_2.0.5-jessie_amd64.deb
+ 949c560a27b36c2b3a92ccf249232212505bd487 238644 libnemo-extension-dev_2.0.5-jessie_amd64.deb
+ 2a3e28b915f54972496ec7d55bc8d7fba418de49 209108 gir1.2-nemo-3.0_2.0.5-jessie_amd64.deb
+ 8492b9635695fad9f08c8b70dd9e04e82fbbf812 234356 nemo-data_2.0.5-jessie_all.deb
+Checksums-Sha256: 
+ 760f0137ee4942cade71feeb0d01bf9c156883d6b2ee51609a64768a318e6db0 1373 nemo_2.0.5-jessie.dsc
+ 8538e81e2104a4349f710e76720b0bcac3abe126b43407862dfaad3893df2fce 1363888 nemo_2.0.5-jessie.tar.gz
+ 26aa9e1ae6aa6095e3cf551f33e4c47e9a6f36227362d44fecf0c3ba465397b4 1159284 nemo_2.0.5-jessie_amd64.deb
+ df7b5d61c8f9bcbb96109fe2fd3c8ca981c19377da919f990df6907cf511e6eb 3384390 nemo-dbg_2.0.5-jessie_amd64.deb
+ 22ebd59ee6dbb2e6b37b0b75eab1f75f2026d237179105b9384f4b33202fe00a 218342 libnemo-extension1_2.0.5-jessie_amd64.deb
+ 718d90bb2f97db0d661c9ea0c40b9c33d61d256753e7657563bf6768cb6d8ef1 238644 libnemo-extension-dev_2.0.5-jessie_amd64.deb
+ aaf5b6d08fb09687552d776e2494e7fcae27902040649ebab52a19891dd57774 209108 gir1.2-nemo-3.0_2.0.5-jessie_amd64.deb
+ 366ba691ff2bac09a8faa2ce0539eaf7e812b1528021020dc902ef07dcdc30ea 234356 nemo-data_2.0.5-jessie_all.deb
+Files: 
+ f7acd6fb83baf2c3af7175d01efda936 1373 gnome optional nemo_2.0.5-jessie.dsc
+ e7c8065fa1172c9893bed6b5b1e4e8ab 1363888 gnome optional nemo_2.0.5-jessie.tar.gz
+ 7eaeab2b748f87e934ab556b1da27420 1159284 gnome optional nemo_2.0.5-jessie_amd64.deb
+ 1ad9e096fb872d91d1dd1ef64e076261 3384390 debug extra nemo-dbg_2.0.5-jessie_amd64.deb
+ 00fded62b037918db939e8e42eb4c9e7 218342 libs optional libnemo-extension1_2.0.5-jessie_amd64.deb
+ 933cad9290f81eb32cdfb5c97567fa43 238644 libdevel optional libnemo-extension-dev_2.0.5-jessie_amd64.deb
+ 25d4c06944417c1341aa9151ed682f6f 209108 libdevel optional gir1.2-nemo-3.0_2.0.5-jessie_amd64.deb
+ 67d970d6ee2d7810972429d049667d22 234356 gnome optional nemo-data_2.0.5-jessie_all.deb
