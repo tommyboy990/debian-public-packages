@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:41:39 +0100
+Source: cinnamon-translations
+Binary: cinnamon-translations
+Architecture: source all
+Version: 2.0.2-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon-translations - Translation files for the Cinnamon desktop
+Changes: 
+ cinnamon-translations (2.0.2-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ 50cdb13801b5400499c1b2d63b087ef8ac30e770 626 cinnamon-translations_2.0.2-kali.dsc
+ b35a36855ddb5ad96ef706364641afdfe7f7effb 29329255 cinnamon-translations_2.0.2-kali.tar.gz
+ 6d6c2371dbde5cf9eeac006b95c5f1859f2a8739 3380470 cinnamon-translations_2.0.2-kali_all.deb
+Checksums-Sha256: 
+ 8df9db7777c8d62fd23c4930338a0311092cbe3b1428e2a9c63d6565c724c9db 626 cinnamon-translations_2.0.2-kali.dsc
+ c08cf7c060d1b57d78c3ecb4d5f8e4dde7ed02339a37a4644b11aaec9308650c 29329255 cinnamon-translations_2.0.2-kali.tar.gz
+ 7980d086c110b3a247da097d4ec8a239480b7ae2b618a364466b2040bfbb8587 3380470 cinnamon-translations_2.0.2-kali_all.deb
+Files: 
+ 05586dc2e54d80f8ba97ee7a0b783b35 626 admin optional cinnamon-translations_2.0.2-kali.dsc
+ eb70b645515f5b176077d6c4bf31a00d 29329255 admin optional cinnamon-translations_2.0.2-kali.tar.gz
+ 478439b11206fb118e724d2e9bcff4dc 3380470 admin optional cinnamon-translations_2.0.2-kali_all.deb

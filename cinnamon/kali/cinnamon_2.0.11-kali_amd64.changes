@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Thu, 07 Nov 2013 22:59:34 +0100
+Source: cinnamon
+Binary: cinnamon cinnamon-dbg cinnamon-common
+Architecture: source amd64 all
+Version: 2.0.11-kali
+Distribution: kali
+Urgency: medium
+Maintainer: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Changed-By: Jubei-Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Description: 
+ cinnamon   - Cinnamon desktop
+ cinnamon-common - Cinnamon desktop (Common data files)
+ cinnamon-dbg - Debugging symbols for the Cinnamon desktop
+Changes: 
+ cinnamon (2.0.11-kali) kali; urgency=medium
+ .
+   * recompiled for kali by me
+Checksums-Sha1: 
+ f3013aa82cafac5065813c6e35486ff9bf8bd9e0 1544 cinnamon_2.0.11-kali.dsc
+ 3a1ace2a3e80228e44bf1c6efec52de96bd8c199 17118321 cinnamon_2.0.11-kali.tar.gz
+ 152a69ce2c6d31a84ea08b6a498b4192438f88d4 761574 cinnamon_2.0.11-kali_amd64.deb
+ 374760575859e2eb8ef465253afdc74645a2a2ba 957476 cinnamon-dbg_2.0.11-kali_amd64.deb
+ 6cedf01c4bb1afa365873118c7f4dd0dba907a67 1713948 cinnamon-common_2.0.11-kali_all.deb
+Checksums-Sha256: 
+ fa8407f5f8af5c6920e513333b297c91ed21b9beae4d15b2f9089dd8a51f2b81 1544 cinnamon_2.0.11-kali.dsc
+ 8e24b781361c54c40080fb4520dd8f82b0c7c9d677c1fde1bcc583da179a44d0 17118321 cinnamon_2.0.11-kali.tar.gz
+ 317edd952e17f32db3039900931885fbe78dd11f2d015b8cd976a0830c3051ce 761574 cinnamon_2.0.11-kali_amd64.deb
+ 795a5bb44a663f63870e3be2db96216397afba8c8653736d6f498ed682318a0f 957476 cinnamon-dbg_2.0.11-kali_amd64.deb
+ 76321a675275719e9d8af12999815b8839715969a9cac33939092d9b83f43a0c 1713948 cinnamon-common_2.0.11-kali_all.deb
+Files: 
+ f85be81edec06385eb7dff597d0913da 1544 gnome optional cinnamon_2.0.11-kali.dsc
+ b072eb21b2ac6d39634600bc8e523c78 17118321 gnome optional cinnamon_2.0.11-kali.tar.gz
+ f96847bc776ade4b036384e0f70e0182 761574 gnome optional cinnamon_2.0.11-kali_amd64.deb
+ 4b502983a6669681ce46292fd44c36b5 957476 debug extra cinnamon-dbg_2.0.11-kali_amd64.deb
+ 73d8b9378369922211a90ec96255fe75 1713948 gnome optional cinnamon-common_2.0.11-kali_all.deb
